@@ -1,0 +1,3502 @@
+[
+	{
+		"codigo_passagem": 6840,
+		"nro_cartao": "6334238874556822539",
+		"codigo_seguranca_cartao": 280,
+		"valor_passagem": "R$23,93",
+		"data_viagem": "2023-01-24"
+	},
+	{
+		"codigo_passagem": 6128,
+		"nro_cartao": "6767 8453 1414 2432",
+		"codigo_seguranca_cartao": 597,
+		"valor_passagem": "R$96,08",
+		"data_viagem": "2021-06-21"
+	},
+	{
+		"codigo_passagem": 7965,
+		"nro_cartao": "491 77649 71875 433",
+		"codigo_seguranca_cartao": 251,
+		"valor_passagem": "R$63,44",
+		"data_viagem": "2021-10-06"
+	},
+	{
+		"codigo_passagem": 3771,
+		"nro_cartao": "514882 376955 3353",
+		"codigo_seguranca_cartao": 716,
+		"valor_passagem": "R$4,79",
+		"data_viagem": "2022-12-16"
+	},
+	{
+		"codigo_passagem": 3869,
+		"nro_cartao": "4913 1614 2742 4854",
+		"codigo_seguranca_cartao": 879,
+		"valor_passagem": "R$14,94",
+		"data_viagem": "2022-10-15"
+	},
+	{
+		"codigo_passagem": 5259,
+		"nro_cartao": "6763775145166538",
+		"codigo_seguranca_cartao": 119,
+		"valor_passagem": "R$60,36",
+		"data_viagem": "2021-12-29"
+	},
+	{
+		"codigo_passagem": 7047,
+		"nro_cartao": "6304865231176556893",
+		"codigo_seguranca_cartao": 863,
+		"valor_passagem": "R$9,67",
+		"data_viagem": "2021-12-16"
+	},
+	{
+		"codigo_passagem": 7034,
+		"nro_cartao": "633468 8541936265",
+		"codigo_seguranca_cartao": 274,
+		"valor_passagem": "R$58,41",
+		"data_viagem": "2021-11-17"
+	},
+	{
+		"codigo_passagem": 1895,
+		"nro_cartao": "676733243587526336",
+		"codigo_seguranca_cartao": 212,
+		"valor_passagem": "R$84,40",
+		"data_viagem": "2022-06-30"
+	},
+	{
+		"codigo_passagem": 9015,
+		"nro_cartao": "363482875589222",
+		"codigo_seguranca_cartao": 891,
+		"valor_passagem": "R$13,23",
+		"data_viagem": "2021-10-12"
+	},
+	{
+		"codigo_passagem": 5214,
+		"nro_cartao": "4936771186667185358",
+		"codigo_seguranca_cartao": 836,
+		"valor_passagem": "R$96,52",
+		"data_viagem": "2021-11-12"
+	},
+	{
+		"codigo_passagem": 7072,
+		"nro_cartao": "2014 553766 56760",
+		"codigo_seguranca_cartao": 349,
+		"valor_passagem": "R$52,65",
+		"data_viagem": "2021-04-04"
+	},
+	{
+		"codigo_passagem": 7842,
+		"nro_cartao": "675974 53 5755 1697 761",
+		"codigo_seguranca_cartao": 977,
+		"valor_passagem": "R$22,00",
+		"data_viagem": "2022-10-21"
+	},
+	{
+		"codigo_passagem": 1353,
+		"nro_cartao": "201484734667673",
+		"codigo_seguranca_cartao": 834,
+		"valor_passagem": "R$27,77",
+		"data_viagem": "2022-05-30"
+	},
+	{
+		"codigo_passagem": 4647,
+		"nro_cartao": "491324 627778 2780",
+		"codigo_seguranca_cartao": 778,
+		"valor_passagem": "R$75,13",
+		"data_viagem": "2021-09-08"
+	},
+	{
+		"codigo_passagem": 2793,
+		"nro_cartao": "546142 332286 8478",
+		"codigo_seguranca_cartao": 990,
+		"valor_passagem": "R$42,46",
+		"data_viagem": "2021-08-10"
+	},
+	{
+		"codigo_passagem": 2971,
+		"nro_cartao": "677 17323 22425 815",
+		"codigo_seguranca_cartao": 460,
+		"valor_passagem": "R$65,00",
+		"data_viagem": "2021-09-11"
+	},
+	{
+		"codigo_passagem": 2664,
+		"nro_cartao": "644 64164 74633 831",
+		"codigo_seguranca_cartao": 463,
+		"valor_passagem": "R$6,16",
+		"data_viagem": "2021-09-03"
+	},
+	{
+		"codigo_passagem": 5930,
+		"nro_cartao": "201458482285623",
+		"codigo_seguranca_cartao": 788,
+		"valor_passagem": "R$59,53",
+		"data_viagem": "2022-09-23"
+	},
+	{
+		"codigo_passagem": 2295,
+		"nro_cartao": "645186 5415591155",
+		"codigo_seguranca_cartao": 285,
+		"valor_passagem": "R$91,24",
+		"data_viagem": "2022-02-11"
+	},
+	{
+		"codigo_passagem": 7175,
+		"nro_cartao": "4175 0086 5638 8578",
+		"codigo_seguranca_cartao": 605,
+		"valor_passagem": "R$51,90",
+		"data_viagem": "2021-12-21"
+	},
+	{
+		"codigo_passagem": 2586,
+		"nro_cartao": "4556488987259251",
+		"codigo_seguranca_cartao": 867,
+		"valor_passagem": "R$24,38",
+		"data_viagem": "2022-11-04"
+	},
+	{
+		"codigo_passagem": 5196,
+		"nro_cartao": "4929 478 48 8646",
+		"codigo_seguranca_cartao": 185,
+		"valor_passagem": "R$83,86",
+		"data_viagem": "2021-06-30"
+	},
+	{
+		"codigo_passagem": 2885,
+		"nro_cartao": "201428978476283",
+		"codigo_seguranca_cartao": 479,
+		"valor_passagem": "R$28,76",
+		"data_viagem": "2021-11-13"
+	},
+	{
+		"codigo_passagem": 8130,
+		"nro_cartao": "670933 9418279184",
+		"codigo_seguranca_cartao": 549,
+		"valor_passagem": "R$32,67",
+		"data_viagem": "2021-11-11"
+	},
+	{
+		"codigo_passagem": 2917,
+		"nro_cartao": "6767698855435230",
+		"codigo_seguranca_cartao": 338,
+		"valor_passagem": "R$5,87",
+		"data_viagem": "2022-12-03"
+	},
+	{
+		"codigo_passagem": 3181,
+		"nro_cartao": "536788 9243545582",
+		"codigo_seguranca_cartao": 567,
+		"valor_passagem": "R$77,17",
+		"data_viagem": "2021-10-21"
+	},
+	{
+		"codigo_passagem": 3601,
+		"nro_cartao": "677137 72 8181 2925 383",
+		"codigo_seguranca_cartao": 120,
+		"valor_passagem": "R$51,75",
+		"data_viagem": "2022-10-22"
+	},
+	{
+		"codigo_passagem": 1959,
+		"nro_cartao": "453983 2469879247",
+		"codigo_seguranca_cartao": 882,
+		"valor_passagem": "R$79,84",
+		"data_viagem": "2022-04-13"
+	},
+	{
+		"codigo_passagem": 5793,
+		"nro_cartao": "3467 714336 41513",
+		"codigo_seguranca_cartao": 460,
+		"valor_passagem": "R$4,76",
+		"data_viagem": "2021-04-03"
+	},
+	{
+		"codigo_passagem": 6179,
+		"nro_cartao": "344633858846229",
+		"codigo_seguranca_cartao": 540,
+		"valor_passagem": "R$36,47",
+		"data_viagem": "2022-10-18"
+	},
+	{
+		"codigo_passagem": 3059,
+		"nro_cartao": "6771478875755667",
+		"codigo_seguranca_cartao": 674,
+		"valor_passagem": "R$70,51",
+		"data_viagem": "2021-09-28"
+	},
+	{
+		"codigo_passagem": 9096,
+		"nro_cartao": "6334662548279672",
+		"codigo_seguranca_cartao": 718,
+		"valor_passagem": "R$26,54",
+		"data_viagem": "2022-04-30"
+	},
+	{
+		"codigo_passagem": 8580,
+		"nro_cartao": "491345 5825624291",
+		"codigo_seguranca_cartao": 293,
+		"valor_passagem": "R$64,77",
+		"data_viagem": "2021-05-24"
+	},
+	{
+		"codigo_passagem": 1823,
+		"nro_cartao": "3002 598628 45346",
+		"codigo_seguranca_cartao": 512,
+		"valor_passagem": "R$84,14",
+		"data_viagem": "2023-01-10"
+	},
+	{
+		"codigo_passagem": 4622,
+		"nro_cartao": "417500 239955 2228",
+		"codigo_seguranca_cartao": 351,
+		"valor_passagem": "R$72,97",
+		"data_viagem": "2021-08-06"
+	},
+	{
+		"codigo_passagem": 9731,
+		"nro_cartao": "4936218736578897565",
+		"codigo_seguranca_cartao": 572,
+		"valor_passagem": "R$56,36",
+		"data_viagem": "2022-10-02"
+	},
+	{
+		"codigo_passagem": 7298,
+		"nro_cartao": "6767985185214629",
+		"codigo_seguranca_cartao": 260,
+		"valor_passagem": "R$59,24",
+		"data_viagem": "2021-05-14"
+	},
+	{
+		"codigo_passagem": 9275,
+		"nro_cartao": "670987 169436 6665",
+		"codigo_seguranca_cartao": 705,
+		"valor_passagem": "R$4,93",
+		"data_viagem": "2021-06-13"
+	},
+	{
+		"codigo_passagem": 3406,
+		"nro_cartao": "4026 8218 7353 9620",
+		"codigo_seguranca_cartao": 899,
+		"valor_passagem": "R$33,10",
+		"data_viagem": "2022-07-17"
+	},
+	{
+		"codigo_passagem": 6613,
+		"nro_cartao": "3461 664648 62684",
+		"codigo_seguranca_cartao": 799,
+		"valor_passagem": "R$82,33",
+		"data_viagem": "2021-03-31"
+	},
+	{
+		"codigo_passagem": 7791,
+		"nro_cartao": "201435169691638",
+		"codigo_seguranca_cartao": 440,
+		"valor_passagem": "R$44,52",
+		"data_viagem": "2022-07-14"
+	},
+	{
+		"codigo_passagem": 4565,
+		"nro_cartao": "302874628861474",
+		"codigo_seguranca_cartao": 832,
+		"valor_passagem": "R$23,13",
+		"data_viagem": "2022-05-05"
+	},
+	{
+		"codigo_passagem": 7337,
+		"nro_cartao": "490337 4986898754",
+		"codigo_seguranca_cartao": 846,
+		"valor_passagem": "R$83,03",
+		"data_viagem": "2022-03-01"
+	},
+	{
+		"codigo_passagem": 4773,
+		"nro_cartao": "526721 669484 6338",
+		"codigo_seguranca_cartao": 327,
+		"valor_passagem": "R$13,59",
+		"data_viagem": "2022-08-22"
+	},
+	{
+		"codigo_passagem": 5167,
+		"nro_cartao": "304284433515729",
+		"codigo_seguranca_cartao": 268,
+		"valor_passagem": "R$19,29",
+		"data_viagem": "2022-06-05"
+	},
+	{
+		"codigo_passagem": 3302,
+		"nro_cartao": "484 41753 62478 315",
+		"codigo_seguranca_cartao": 680,
+		"valor_passagem": "R$51,11",
+		"data_viagem": "2022-06-29"
+	},
+	{
+		"codigo_passagem": 4683,
+		"nro_cartao": "6495492546667230",
+		"codigo_seguranca_cartao": 142,
+		"valor_passagem": "R$8,28",
+		"data_viagem": "2022-01-11"
+	},
+	{
+		"codigo_passagem": 6873,
+		"nro_cartao": "538 78295 46272 746",
+		"codigo_seguranca_cartao": 387,
+		"valor_passagem": "R$12,51",
+		"data_viagem": "2021-05-21"
+	},
+	{
+		"codigo_passagem": 9095,
+		"nro_cartao": "493627 84 7682 8283 426",
+		"codigo_seguranca_cartao": 172,
+		"valor_passagem": "R$30,53",
+		"data_viagem": "2022-03-17"
+	},
+	{
+		"codigo_passagem": 3239,
+		"nro_cartao": "363395133435733",
+		"codigo_seguranca_cartao": 341,
+		"valor_passagem": "R$9,81",
+		"data_viagem": "2022-09-01"
+	},
+	{
+		"codigo_passagem": 7414,
+		"nro_cartao": "214956755724231",
+		"codigo_seguranca_cartao": 679,
+		"valor_passagem": "R$83,27",
+		"data_viagem": "2021-09-16"
+	},
+	{
+		"codigo_passagem": 3368,
+		"nro_cartao": "2149 824465 15614",
+		"codigo_seguranca_cartao": 735,
+		"valor_passagem": "R$80,65",
+		"data_viagem": "2022-09-16"
+	},
+	{
+		"codigo_passagem": 4935,
+		"nro_cartao": "676773 73 4478 4611 952",
+		"codigo_seguranca_cartao": 650,
+		"valor_passagem": "R$40,91",
+		"data_viagem": "2021-07-05"
+	},
+	{
+		"codigo_passagem": 6614,
+		"nro_cartao": "630452422723473571",
+		"codigo_seguranca_cartao": 547,
+		"valor_passagem": "R$86,19",
+		"data_viagem": "2021-05-26"
+	},
+	{
+		"codigo_passagem": 8263,
+		"nro_cartao": "527 55726 22384 853",
+		"codigo_seguranca_cartao": 403,
+		"valor_passagem": "R$10,57",
+		"data_viagem": "2022-12-23"
+	},
+	{
+		"codigo_passagem": 9977,
+		"nro_cartao": "5277612167363363",
+		"codigo_seguranca_cartao": 285,
+		"valor_passagem": "R$6,82",
+		"data_viagem": "2021-03-11"
+	},
+	{
+		"codigo_passagem": 1711,
+		"nro_cartao": "63048921382849318",
+		"codigo_seguranca_cartao": 917,
+		"valor_passagem": "R$29,48",
+		"data_viagem": "2022-10-02"
+	},
+	{
+		"codigo_passagem": 4532,
+		"nro_cartao": "58441263836585",
+		"codigo_seguranca_cartao": 353,
+		"valor_passagem": "R$91,22",
+		"data_viagem": "2022-02-15"
+	},
+	{
+		"codigo_passagem": 4121,
+		"nro_cartao": "3778 324629 82483",
+		"codigo_seguranca_cartao": 119,
+		"valor_passagem": "R$63,13",
+		"data_viagem": "2021-03-16"
+	},
+	{
+		"codigo_passagem": 4027,
+		"nro_cartao": "417500 427443 8879",
+		"codigo_seguranca_cartao": 792,
+		"valor_passagem": "R$67,46",
+		"data_viagem": "2022-04-16"
+	},
+	{
+		"codigo_passagem": 9822,
+		"nro_cartao": "644 24888 76286 561",
+		"codigo_seguranca_cartao": 725,
+		"valor_passagem": "R$12,83",
+		"data_viagem": "2021-11-29"
+	},
+	{
+		"codigo_passagem": 1148,
+		"nro_cartao": "601127 5478462612",
+		"codigo_seguranca_cartao": 930,
+		"valor_passagem": "R$23,38",
+		"data_viagem": "2022-09-27"
+	},
+	{
+		"codigo_passagem": 8280,
+		"nro_cartao": "633472714232582771",
+		"codigo_seguranca_cartao": 312,
+		"valor_passagem": "R$87,37",
+		"data_viagem": "2023-03-03"
+	},
+	{
+		"codigo_passagem": 1169,
+		"nro_cartao": "63045644868434735",
+		"codigo_seguranca_cartao": 953,
+		"valor_passagem": "R$91,12",
+		"data_viagem": "2021-08-13"
+	},
+	{
+		"codigo_passagem": 4539,
+		"nro_cartao": "2149 768576 68896",
+		"codigo_seguranca_cartao": 570,
+		"valor_passagem": "R$40,82",
+		"data_viagem": "2022-09-06"
+	},
+	{
+		"codigo_passagem": 8305,
+		"nro_cartao": "6767279828242722926",
+		"codigo_seguranca_cartao": 137,
+		"valor_passagem": "R$56,54",
+		"data_viagem": "2021-12-03"
+	},
+	{
+		"codigo_passagem": 4782,
+		"nro_cartao": "3733 322775 78745",
+		"codigo_seguranca_cartao": 665,
+		"valor_passagem": "R$90,31",
+		"data_viagem": "2021-04-12"
+	},
+	{
+		"codigo_passagem": 4146,
+		"nro_cartao": "361429225549416",
+		"codigo_seguranca_cartao": 236,
+		"valor_passagem": "R$99,62",
+		"data_viagem": "2021-10-27"
+	},
+	{
+		"codigo_passagem": 6489,
+		"nro_cartao": "491162 2728631986",
+		"codigo_seguranca_cartao": 934,
+		"valor_passagem": "R$41,41",
+		"data_viagem": "2023-01-22"
+	},
+	{
+		"codigo_passagem": 4765,
+		"nro_cartao": "490 52858 95563 586",
+		"codigo_seguranca_cartao": 610,
+		"valor_passagem": "R$70,99",
+		"data_viagem": "2021-11-04"
+	},
+	{
+		"codigo_passagem": 9302,
+		"nro_cartao": "3675 757576 62243",
+		"codigo_seguranca_cartao": 802,
+		"valor_passagem": "R$83,62",
+		"data_viagem": "2022-09-25"
+	},
+	{
+		"codigo_passagem": 1976,
+		"nro_cartao": "633457 443764 6772",
+		"codigo_seguranca_cartao": 639,
+		"valor_passagem": "R$81,79",
+		"data_viagem": "2022-12-14"
+	},
+	{
+		"codigo_passagem": 2662,
+		"nro_cartao": "214945856645643",
+		"codigo_seguranca_cartao": 439,
+		"valor_passagem": "R$5,86",
+		"data_viagem": "2022-11-23"
+	},
+	{
+		"codigo_passagem": 7261,
+		"nro_cartao": "670669 6717794475",
+		"codigo_seguranca_cartao": 422,
+		"valor_passagem": "R$97,19",
+		"data_viagem": "2023-01-28"
+	},
+	{
+		"codigo_passagem": 8593,
+		"nro_cartao": "305888283585753",
+		"codigo_seguranca_cartao": 220,
+		"valor_passagem": "R$62,11",
+		"data_viagem": "2021-11-10"
+	},
+	{
+		"codigo_passagem": 5096,
+		"nro_cartao": "362558248996862",
+		"codigo_seguranca_cartao": 332,
+		"valor_passagem": "R$42,74",
+		"data_viagem": "2022-01-29"
+	},
+	{
+		"codigo_passagem": 8620,
+		"nro_cartao": "552241 872628 2133",
+		"codigo_seguranca_cartao": 648,
+		"valor_passagem": "R$90,04",
+		"data_viagem": "2021-06-06"
+	},
+	{
+		"codigo_passagem": 9580,
+		"nro_cartao": "6454 3463 7674 7166",
+		"codigo_seguranca_cartao": 554,
+		"valor_passagem": "R$92,52",
+		"data_viagem": "2022-08-12"
+	},
+	{
+		"codigo_passagem": 1373,
+		"nro_cartao": "6455335996388880",
+		"codigo_seguranca_cartao": 598,
+		"valor_passagem": "R$29,74",
+		"data_viagem": "2021-04-27"
+	},
+	{
+		"codigo_passagem": 1506,
+		"nro_cartao": "5641826683296944",
+		"codigo_seguranca_cartao": 418,
+		"valor_passagem": "R$55,87",
+		"data_viagem": "2022-11-11"
+	},
+	{
+		"codigo_passagem": 5541,
+		"nro_cartao": "362984344147178",
+		"codigo_seguranca_cartao": 218,
+		"valor_passagem": "R$2,58",
+		"data_viagem": "2022-12-16"
+	},
+	{
+		"codigo_passagem": 1986,
+		"nro_cartao": "6334422454242150",
+		"codigo_seguranca_cartao": 887,
+		"valor_passagem": "R$72,93",
+		"data_viagem": "2022-09-28"
+	},
+	{
+		"codigo_passagem": 1261,
+		"nro_cartao": "5354 6527 1596 5521",
+		"codigo_seguranca_cartao": 401,
+		"valor_passagem": "R$94,88",
+		"data_viagem": "2022-11-20"
+	},
+	{
+		"codigo_passagem": 2185,
+		"nro_cartao": "5794265381648",
+		"codigo_seguranca_cartao": 180,
+		"valor_passagem": "R$34,59",
+		"data_viagem": "2023-02-12"
+	},
+	{
+		"codigo_passagem": 6476,
+		"nro_cartao": "214946585252297",
+		"codigo_seguranca_cartao": 572,
+		"valor_passagem": "R$20,30",
+		"data_viagem": "2021-07-30"
+	},
+	{
+		"codigo_passagem": 8573,
+		"nro_cartao": "3427 513843 36986",
+		"codigo_seguranca_cartao": 941,
+		"valor_passagem": "R$84,71",
+		"data_viagem": "2022-03-05"
+	},
+	{
+		"codigo_passagem": 5349,
+		"nro_cartao": "492917 275542 5423",
+		"codigo_seguranca_cartao": 717,
+		"valor_passagem": "R$81,51",
+		"data_viagem": "2023-02-21"
+	},
+	{
+		"codigo_passagem": 8039,
+		"nro_cartao": "363378886256241",
+		"codigo_seguranca_cartao": 779,
+		"valor_passagem": "R$97,69",
+		"data_viagem": "2022-12-09"
+	},
+	{
+		"codigo_passagem": 4636,
+		"nro_cartao": "214946414231686",
+		"codigo_seguranca_cartao": 381,
+		"valor_passagem": "R$81,22",
+		"data_viagem": "2022-07-13"
+	},
+	{
+		"codigo_passagem": 1288,
+		"nro_cartao": "646543 6122354586",
+		"codigo_seguranca_cartao": 421,
+		"valor_passagem": "R$2,03",
+		"data_viagem": "2021-09-05"
+	},
+	{
+		"codigo_passagem": 4799,
+		"nro_cartao": "417500 6584166744",
+		"codigo_seguranca_cartao": 364,
+		"valor_passagem": "R$55,98",
+		"data_viagem": "2021-05-18"
+	},
+	{
+		"codigo_passagem": 2820,
+		"nro_cartao": "670617 582563 9864",
+		"codigo_seguranca_cartao": 985,
+		"valor_passagem": "R$53,82",
+		"data_viagem": "2022-05-02"
+	},
+	{
+		"codigo_passagem": 6844,
+		"nro_cartao": "4913 2256 1729 5232",
+		"codigo_seguranca_cartao": 796,
+		"valor_passagem": "R$39,16",
+		"data_viagem": "2022-07-03"
+	},
+	{
+		"codigo_passagem": 3978,
+		"nro_cartao": "364982575817681",
+		"codigo_seguranca_cartao": 916,
+		"valor_passagem": "R$3,12",
+		"data_viagem": "2021-10-03"
+	},
+	{
+		"codigo_passagem": 8624,
+		"nro_cartao": "601166 252937 8329",
+		"codigo_seguranca_cartao": 834,
+		"valor_passagem": "R$67,90",
+		"data_viagem": "2023-02-16"
+	},
+	{
+		"codigo_passagem": 8770,
+		"nro_cartao": "601123 7282375398",
+		"codigo_seguranca_cartao": 455,
+		"valor_passagem": "R$91,09",
+		"data_viagem": "2023-01-30"
+	},
+	{
+		"codigo_passagem": 2543,
+		"nro_cartao": "471686 552675 2978",
+		"codigo_seguranca_cartao": 732,
+		"valor_passagem": "R$70,99",
+		"data_viagem": "2022-05-21"
+	},
+	{
+		"codigo_passagem": 5776,
+		"nro_cartao": "6709449153264869",
+		"codigo_seguranca_cartao": 923,
+		"valor_passagem": "R$89,28",
+		"data_viagem": "2021-12-10"
+	},
+	{
+		"codigo_passagem": 4083,
+		"nro_cartao": "3055 237155 25461",
+		"codigo_seguranca_cartao": 968,
+		"valor_passagem": "R$22,26",
+		"data_viagem": "2021-08-23"
+	},
+	{
+		"codigo_passagem": 9728,
+		"nro_cartao": "6767588833658583",
+		"codigo_seguranca_cartao": 993,
+		"valor_passagem": "R$64,12",
+		"data_viagem": "2021-03-05"
+	},
+	{
+		"codigo_passagem": 2249,
+		"nro_cartao": "491335 7124234147",
+		"codigo_seguranca_cartao": 498,
+		"valor_passagem": "R$52,02",
+		"data_viagem": "2021-08-04"
+	},
+	{
+		"codigo_passagem": 7867,
+		"nro_cartao": "2014 679261 18258",
+		"codigo_seguranca_cartao": 948,
+		"valor_passagem": "R$8,00",
+		"data_viagem": "2021-05-15"
+	},
+	{
+		"codigo_passagem": 5470,
+		"nro_cartao": "372525435638423",
+		"codigo_seguranca_cartao": 815,
+		"valor_passagem": "R$13,40",
+		"data_viagem": "2023-02-02"
+	},
+	{
+		"codigo_passagem": 6776,
+		"nro_cartao": "402400 7138837973",
+		"codigo_seguranca_cartao": 747,
+		"valor_passagem": "R$57,56",
+		"data_viagem": "2022-02-18"
+	},
+	{
+		"codigo_passagem": 2650,
+		"nro_cartao": "491 64546 54568 635",
+		"codigo_seguranca_cartao": 812,
+		"valor_passagem": "R$80,30",
+		"data_viagem": "2021-08-24"
+	},
+	{
+		"codigo_passagem": 1440,
+		"nro_cartao": "4539536766274735",
+		"codigo_seguranca_cartao": 736,
+		"valor_passagem": "R$45,95",
+		"data_viagem": "2021-06-12"
+	},
+	{
+		"codigo_passagem": 5457,
+		"nro_cartao": "676786579715342245",
+		"codigo_seguranca_cartao": 182,
+		"valor_passagem": "R$37,20",
+		"data_viagem": "2021-08-08"
+	},
+	{
+		"codigo_passagem": 3520,
+		"nro_cartao": "4485754567284449",
+		"codigo_seguranca_cartao": 336,
+		"valor_passagem": "R$68,72",
+		"data_viagem": "2022-05-16"
+	},
+	{
+		"codigo_passagem": 6486,
+		"nro_cartao": "378142222557271",
+		"codigo_seguranca_cartao": 664,
+		"valor_passagem": "R$49,06",
+		"data_viagem": "2021-10-11"
+	},
+	{
+		"codigo_passagem": 4300,
+		"nro_cartao": "3642 356722 95123",
+		"codigo_seguranca_cartao": 253,
+		"valor_passagem": "R$67,77",
+		"data_viagem": "2022-06-16"
+	},
+	{
+		"codigo_passagem": 5180,
+		"nro_cartao": "633455 6473223251",
+		"codigo_seguranca_cartao": 344,
+		"valor_passagem": "R$6,00",
+		"data_viagem": "2021-09-17"
+	},
+	{
+		"codigo_passagem": 3013,
+		"nro_cartao": "6709374742646269150",
+		"codigo_seguranca_cartao": 203,
+		"valor_passagem": "R$55,37",
+		"data_viagem": "2022-01-08"
+	},
+	{
+		"codigo_passagem": 8849,
+		"nro_cartao": "633444148852686213",
+		"codigo_seguranca_cartao": 776,
+		"valor_passagem": "R$39,27",
+		"data_viagem": "2021-05-30"
+	},
+	{
+		"codigo_passagem": 7190,
+		"nro_cartao": "5538 3982 7987 3722",
+		"codigo_seguranca_cartao": 749,
+		"valor_passagem": "R$67,94",
+		"data_viagem": "2021-03-28"
+	},
+	{
+		"codigo_passagem": 7928,
+		"nro_cartao": "4903 7262 9428 2650",
+		"codigo_seguranca_cartao": 797,
+		"valor_passagem": "R$72,66",
+		"data_viagem": "2022-03-11"
+	},
+	{
+		"codigo_passagem": 9731,
+		"nro_cartao": "4844 2623 8126 3645",
+		"codigo_seguranca_cartao": 313,
+		"valor_passagem": "R$36,57",
+		"data_viagem": "2022-07-07"
+	},
+	{
+		"codigo_passagem": 4999,
+		"nro_cartao": "364433761688585",
+		"codigo_seguranca_cartao": 596,
+		"valor_passagem": "R$34,00",
+		"data_viagem": "2022-06-21"
+	},
+	{
+		"codigo_passagem": 6521,
+		"nro_cartao": "302748582362895",
+		"codigo_seguranca_cartao": 236,
+		"valor_passagem": "R$55,92",
+		"data_viagem": "2021-07-06"
+	},
+	{
+		"codigo_passagem": 8042,
+		"nro_cartao": "676729 9298386633",
+		"codigo_seguranca_cartao": 607,
+		"valor_passagem": "R$67,94",
+		"data_viagem": "2021-10-12"
+	},
+	{
+		"codigo_passagem": 6944,
+		"nro_cartao": "6334457726717789441",
+		"codigo_seguranca_cartao": 850,
+		"valor_passagem": "R$3,61",
+		"data_viagem": "2021-04-05"
+	},
+	{
+		"codigo_passagem": 5504,
+		"nro_cartao": "633451 7264224668",
+		"codigo_seguranca_cartao": 583,
+		"valor_passagem": "R$83,76",
+		"data_viagem": "2022-01-28"
+	},
+	{
+		"codigo_passagem": 2298,
+		"nro_cartao": "376495783354476",
+		"codigo_seguranca_cartao": 796,
+		"valor_passagem": "R$40,05",
+		"data_viagem": "2022-02-24"
+	},
+	{
+		"codigo_passagem": 5512,
+		"nro_cartao": "6709736753669494479",
+		"codigo_seguranca_cartao": 147,
+		"valor_passagem": "R$65,24",
+		"data_viagem": "2022-03-05"
+	},
+	{
+		"codigo_passagem": 9032,
+		"nro_cartao": "676782 2313623167",
+		"codigo_seguranca_cartao": 695,
+		"valor_passagem": "R$5,77",
+		"data_viagem": "2022-03-08"
+	},
+	{
+		"codigo_passagem": 4052,
+		"nro_cartao": "362292684729575",
+		"codigo_seguranca_cartao": 663,
+		"valor_passagem": "R$76,39",
+		"data_viagem": "2021-06-07"
+	},
+	{
+		"codigo_passagem": 7152,
+		"nro_cartao": "4295 7774 6548 2765",
+		"codigo_seguranca_cartao": 366,
+		"valor_passagem": "R$12,46",
+		"data_viagem": "2022-07-25"
+	},
+	{
+		"codigo_passagem": 3071,
+		"nro_cartao": "6767547275774357",
+		"codigo_seguranca_cartao": 550,
+		"valor_passagem": "R$79,45",
+		"data_viagem": "2022-02-09"
+	},
+	{
+		"codigo_passagem": 2207,
+		"nro_cartao": "300144865873745",
+		"codigo_seguranca_cartao": 539,
+		"valor_passagem": "R$68,80",
+		"data_viagem": "2022-02-26"
+	},
+	{
+		"codigo_passagem": 4554,
+		"nro_cartao": "374622446591861",
+		"codigo_seguranca_cartao": 680,
+		"valor_passagem": "R$76,21",
+		"data_viagem": "2022-03-06"
+	},
+	{
+		"codigo_passagem": 4850,
+		"nro_cartao": "6495453633444420",
+		"codigo_seguranca_cartao": 487,
+		"valor_passagem": "R$89,12",
+		"data_viagem": "2022-10-22"
+	},
+	{
+		"codigo_passagem": 9526,
+		"nro_cartao": "491737 8587629363",
+		"codigo_seguranca_cartao": 818,
+		"valor_passagem": "R$21,79",
+		"data_viagem": "2022-06-07"
+	},
+	{
+		"codigo_passagem": 5640,
+		"nro_cartao": "659418 778642 2334",
+		"codigo_seguranca_cartao": 367,
+		"valor_passagem": "R$56,49",
+		"data_viagem": "2022-08-29"
+	},
+	{
+		"codigo_passagem": 9996,
+		"nro_cartao": "647667 9423564166",
+		"codigo_seguranca_cartao": 186,
+		"valor_passagem": "R$33,41",
+		"data_viagem": "2021-09-16"
+	},
+	{
+		"codigo_passagem": 3735,
+		"nro_cartao": "3693 346571 45737",
+		"codigo_seguranca_cartao": 825,
+		"valor_passagem": "R$29,67",
+		"data_viagem": "2021-07-25"
+	},
+	{
+		"codigo_passagem": 6687,
+		"nro_cartao": "214923343145758",
+		"codigo_seguranca_cartao": 154,
+		"valor_passagem": "R$7,39",
+		"data_viagem": "2021-05-22"
+	},
+	{
+		"codigo_passagem": 8027,
+		"nro_cartao": "457822 338353 2942",
+		"codigo_seguranca_cartao": 790,
+		"valor_passagem": "R$11,86",
+		"data_viagem": "2021-08-12"
+	},
+	{
+		"codigo_passagem": 8578,
+		"nro_cartao": "6761687473578733",
+		"codigo_seguranca_cartao": 143,
+		"valor_passagem": "R$56,82",
+		"data_viagem": "2021-08-22"
+	},
+	{
+		"codigo_passagem": 2397,
+		"nro_cartao": "3029 372724 74918",
+		"codigo_seguranca_cartao": 452,
+		"valor_passagem": "R$21,80",
+		"data_viagem": "2022-08-16"
+	},
+	{
+		"codigo_passagem": 3249,
+		"nro_cartao": "3784 485487 27351",
+		"codigo_seguranca_cartao": 177,
+		"valor_passagem": "R$78,22",
+		"data_viagem": "2022-08-30"
+	},
+	{
+		"codigo_passagem": 8503,
+		"nro_cartao": "3698 463694 54388",
+		"codigo_seguranca_cartao": 525,
+		"valor_passagem": "R$36,17",
+		"data_viagem": "2022-03-30"
+	},
+	{
+		"codigo_passagem": 6707,
+		"nro_cartao": "3001 737275 75727",
+		"codigo_seguranca_cartao": 587,
+		"valor_passagem": "R$45,00",
+		"data_viagem": "2022-08-17"
+	},
+	{
+		"codigo_passagem": 4635,
+		"nro_cartao": "5321715952686512",
+		"codigo_seguranca_cartao": 799,
+		"valor_passagem": "R$46,92",
+		"data_viagem": "2022-05-29"
+	},
+	{
+		"codigo_passagem": 6635,
+		"nro_cartao": "5795368962982872",
+		"codigo_seguranca_cartao": 943,
+		"valor_passagem": "R$68,67",
+		"data_viagem": "2021-07-08"
+	},
+	{
+		"codigo_passagem": 2483,
+		"nro_cartao": "4936 9776 8663 5887",
+		"codigo_seguranca_cartao": 278,
+		"valor_passagem": "R$50,43",
+		"data_viagem": "2022-05-09"
+	},
+	{
+		"codigo_passagem": 3213,
+		"nro_cartao": "6334886344458194",
+		"codigo_seguranca_cartao": 490,
+		"valor_passagem": "R$33,75",
+		"data_viagem": "2021-07-21"
+	},
+	{
+		"codigo_passagem": 2440,
+		"nro_cartao": "3648 441886 53483",
+		"codigo_seguranca_cartao": 473,
+		"valor_passagem": "R$88,14",
+		"data_viagem": "2022-04-16"
+	},
+	{
+		"codigo_passagem": 8683,
+		"nro_cartao": "4911 3459 5936 3364",
+		"codigo_seguranca_cartao": 970,
+		"valor_passagem": "R$27,37",
+		"data_viagem": "2021-08-02"
+	},
+	{
+		"codigo_passagem": 8605,
+		"nro_cartao": "544 39176 77472 987",
+		"codigo_seguranca_cartao": 785,
+		"valor_passagem": "R$76,31",
+		"data_viagem": "2021-03-12"
+	},
+	{
+		"codigo_passagem": 2438,
+		"nro_cartao": "367835257726819",
+		"codigo_seguranca_cartao": 404,
+		"valor_passagem": "R$59,32",
+		"data_viagem": "2021-10-21"
+	},
+	{
+		"codigo_passagem": 6126,
+		"nro_cartao": "512 47455 68564 661",
+		"codigo_seguranca_cartao": 549,
+		"valor_passagem": "R$12,79",
+		"data_viagem": "2022-08-28"
+	},
+	{
+		"codigo_passagem": 6371,
+		"nro_cartao": "362782843587419",
+		"codigo_seguranca_cartao": 341,
+		"valor_passagem": "R$39,45",
+		"data_viagem": "2023-02-17"
+	},
+	{
+		"codigo_passagem": 6319,
+		"nro_cartao": "3027 585477 15426",
+		"codigo_seguranca_cartao": 549,
+		"valor_passagem": "R$73,38",
+		"data_viagem": "2022-03-02"
+	},
+	{
+		"codigo_passagem": 2130,
+		"nro_cartao": "6477223413345937",
+		"codigo_seguranca_cartao": 230,
+		"valor_passagem": "R$81,63",
+		"data_viagem": "2021-12-25"
+	},
+	{
+		"codigo_passagem": 7468,
+		"nro_cartao": "304187656964823",
+		"codigo_seguranca_cartao": 310,
+		"valor_passagem": "R$89,19",
+		"data_viagem": "2022-10-03"
+	},
+	{
+		"codigo_passagem": 9220,
+		"nro_cartao": "630447 7255693965",
+		"codigo_seguranca_cartao": 305,
+		"valor_passagem": "R$71,03",
+		"data_viagem": "2021-03-11"
+	},
+	{
+		"codigo_passagem": 9536,
+		"nro_cartao": "4024 007 13 4539",
+		"codigo_seguranca_cartao": 905,
+		"valor_passagem": "R$54,31",
+		"data_viagem": "2022-11-30"
+	},
+	{
+		"codigo_passagem": 9314,
+		"nro_cartao": "4716367278871858",
+		"codigo_seguranca_cartao": 115,
+		"valor_passagem": "R$9,31",
+		"data_viagem": "2021-08-23"
+	},
+	{
+		"codigo_passagem": 4920,
+		"nro_cartao": "376732962781461",
+		"codigo_seguranca_cartao": 852,
+		"valor_passagem": "R$54,83",
+		"data_viagem": "2022-03-21"
+	},
+	{
+		"codigo_passagem": 8525,
+		"nro_cartao": "556723 269916 5548",
+		"codigo_seguranca_cartao": 984,
+		"valor_passagem": "R$57,26",
+		"data_viagem": "2021-12-28"
+	},
+	{
+		"codigo_passagem": 5533,
+		"nro_cartao": "5156 6235 4866 1470",
+		"codigo_seguranca_cartao": 469,
+		"valor_passagem": "R$16,86",
+		"data_viagem": "2022-01-19"
+	},
+	{
+		"codigo_passagem": 7723,
+		"nro_cartao": "676137 78 5462 3845 452",
+		"codigo_seguranca_cartao": 982,
+		"valor_passagem": "R$35,77",
+		"data_viagem": "2021-12-23"
+	},
+	{
+		"codigo_passagem": 4055,
+		"nro_cartao": "648759 7846414388",
+		"codigo_seguranca_cartao": 734,
+		"valor_passagem": "R$17,16",
+		"data_viagem": "2022-10-19"
+	},
+	{
+		"codigo_passagem": 3697,
+		"nro_cartao": "302643737288568",
+		"codigo_seguranca_cartao": 618,
+		"valor_passagem": "R$59,41",
+		"data_viagem": "2022-02-16"
+	},
+	{
+		"codigo_passagem": 7126,
+		"nro_cartao": "676785 8757767789",
+		"codigo_seguranca_cartao": 935,
+		"valor_passagem": "R$22,15",
+		"data_viagem": "2022-05-16"
+	},
+	{
+		"codigo_passagem": 7393,
+		"nro_cartao": "654278 2887323465",
+		"codigo_seguranca_cartao": 443,
+		"valor_passagem": "R$36,30",
+		"data_viagem": "2021-06-03"
+	},
+	{
+		"codigo_passagem": 1961,
+		"nro_cartao": "450875 162669 5337",
+		"codigo_seguranca_cartao": 906,
+		"valor_passagem": "R$49,02",
+		"data_viagem": "2021-12-26"
+	},
+	{
+		"codigo_passagem": 2628,
+		"nro_cartao": "491 68222 45949 987",
+		"codigo_seguranca_cartao": 352,
+		"valor_passagem": "R$0,92",
+		"data_viagem": "2021-09-04"
+	},
+	{
+		"codigo_passagem": 3318,
+		"nro_cartao": "2014 216667 66545",
+		"codigo_seguranca_cartao": 875,
+		"valor_passagem": "R$88,09",
+		"data_viagem": "2022-04-07"
+	},
+	{
+		"codigo_passagem": 5630,
+		"nro_cartao": "3673 787245 64612",
+		"codigo_seguranca_cartao": 308,
+		"valor_passagem": "R$94,64",
+		"data_viagem": "2021-06-25"
+	},
+	{
+		"codigo_passagem": 6743,
+		"nro_cartao": "6477 5558 4613 6221",
+		"codigo_seguranca_cartao": 852,
+		"valor_passagem": "R$46,84",
+		"data_viagem": "2022-09-12"
+	},
+	{
+		"codigo_passagem": 7047,
+		"nro_cartao": "5635 675265 65314",
+		"codigo_seguranca_cartao": 803,
+		"valor_passagem": "R$37,10",
+		"data_viagem": "2022-04-08"
+	},
+	{
+		"codigo_passagem": 3967,
+		"nro_cartao": "677 12568 87261 415",
+		"codigo_seguranca_cartao": 406,
+		"valor_passagem": "R$60,82",
+		"data_viagem": "2021-08-31"
+	},
+	{
+		"codigo_passagem": 4936,
+		"nro_cartao": "214996764533645",
+		"codigo_seguranca_cartao": 311,
+		"valor_passagem": "R$69,38",
+		"data_viagem": "2022-06-21"
+	},
+	{
+		"codigo_passagem": 5218,
+		"nro_cartao": "6543 1358 1673 6654",
+		"codigo_seguranca_cartao": 713,
+		"valor_passagem": "R$60,20",
+		"data_viagem": "2022-06-09"
+	},
+	{
+		"codigo_passagem": 5567,
+		"nro_cartao": "633487 72 2715 6647 242",
+		"codigo_seguranca_cartao": 658,
+		"valor_passagem": "R$33,41",
+		"data_viagem": "2021-08-15"
+	},
+	{
+		"codigo_passagem": 1949,
+		"nro_cartao": "633482 991165 5339",
+		"codigo_seguranca_cartao": 438,
+		"valor_passagem": "R$35,11",
+		"data_viagem": "2021-10-24"
+	},
+	{
+		"codigo_passagem": 1981,
+		"nro_cartao": "364858121735488",
+		"codigo_seguranca_cartao": 305,
+		"valor_passagem": "R$51,33",
+		"data_viagem": "2021-05-26"
+	},
+	{
+		"codigo_passagem": 2226,
+		"nro_cartao": "3659 226678 38632",
+		"codigo_seguranca_cartao": 546,
+		"valor_passagem": "R$57,10",
+		"data_viagem": "2021-08-19"
+	},
+	{
+		"codigo_passagem": 7342,
+		"nro_cartao": "534485 363996 2643",
+		"codigo_seguranca_cartao": 637,
+		"valor_passagem": "R$26,72",
+		"data_viagem": "2023-02-06"
+	},
+	{
+		"codigo_passagem": 9443,
+		"nro_cartao": "67064264277296752",
+		"codigo_seguranca_cartao": 299,
+		"valor_passagem": "R$36,70",
+		"data_viagem": "2022-09-29"
+	},
+	{
+		"codigo_passagem": 8698,
+		"nro_cartao": "491149323748288450",
+		"codigo_seguranca_cartao": 724,
+		"valor_passagem": "R$10,69",
+		"data_viagem": "2022-08-28"
+	},
+	{
+		"codigo_passagem": 1854,
+		"nro_cartao": "6011 8874 4716 5629",
+		"codigo_seguranca_cartao": 228,
+		"valor_passagem": "R$76,42",
+		"data_viagem": "2023-01-08"
+	},
+	{
+		"codigo_passagem": 5132,
+		"nro_cartao": "676182 576318 4610",
+		"codigo_seguranca_cartao": 848,
+		"valor_passagem": "R$93,49",
+		"data_viagem": "2022-10-11"
+	},
+	{
+		"codigo_passagem": 8245,
+		"nro_cartao": "453995 2132857477",
+		"codigo_seguranca_cartao": 729,
+		"valor_passagem": "R$83,15",
+		"data_viagem": "2023-02-04"
+	},
+	{
+		"codigo_passagem": 8338,
+		"nro_cartao": "214973258372780",
+		"codigo_seguranca_cartao": 797,
+		"valor_passagem": "R$9,56",
+		"data_viagem": "2021-09-04"
+	},
+	{
+		"codigo_passagem": 3126,
+		"nro_cartao": "491695 436232 8651",
+		"codigo_seguranca_cartao": 585,
+		"valor_passagem": "R$45,04",
+		"data_viagem": "2022-12-05"
+	},
+	{
+		"codigo_passagem": 1335,
+		"nro_cartao": "347883179365642",
+		"codigo_seguranca_cartao": 667,
+		"valor_passagem": "R$99,29",
+		"data_viagem": "2022-03-19"
+	},
+	{
+		"codigo_passagem": 9794,
+		"nro_cartao": "302293138486229",
+		"codigo_seguranca_cartao": 828,
+		"valor_passagem": "R$0,71",
+		"data_viagem": "2021-06-12"
+	},
+	{
+		"codigo_passagem": 1301,
+		"nro_cartao": "67717531252752715",
+		"codigo_seguranca_cartao": 446,
+		"valor_passagem": "R$69,71",
+		"data_viagem": "2021-09-30"
+	},
+	{
+		"codigo_passagem": 1759,
+		"nro_cartao": "300439999768229",
+		"codigo_seguranca_cartao": 166,
+		"valor_passagem": "R$89,17",
+		"data_viagem": "2021-12-09"
+	},
+	{
+		"codigo_passagem": 3771,
+		"nro_cartao": "491746 343578 3479",
+		"codigo_seguranca_cartao": 746,
+		"valor_passagem": "R$3,92",
+		"data_viagem": "2022-02-13"
+	},
+	{
+		"codigo_passagem": 3889,
+		"nro_cartao": "6304 6737 4973 7976",
+		"codigo_seguranca_cartao": 631,
+		"valor_passagem": "R$35,10",
+		"data_viagem": "2022-04-23"
+	},
+	{
+		"codigo_passagem": 1860,
+		"nro_cartao": "677146 64 3433 7464 659",
+		"codigo_seguranca_cartao": 117,
+		"valor_passagem": "R$98,44",
+		"data_viagem": "2021-10-21"
+	},
+	{
+		"codigo_passagem": 4443,
+		"nro_cartao": "201486354423972",
+		"codigo_seguranca_cartao": 921,
+		"valor_passagem": "R$39,01",
+		"data_viagem": "2022-08-12"
+	},
+	{
+		"codigo_passagem": 6607,
+		"nro_cartao": "531 65626 63599 932",
+		"codigo_seguranca_cartao": 130,
+		"valor_passagem": "R$34,97",
+		"data_viagem": "2022-04-02"
+	},
+	{
+		"codigo_passagem": 8662,
+		"nro_cartao": "5343763263388885",
+		"codigo_seguranca_cartao": 335,
+		"valor_passagem": "R$97,00",
+		"data_viagem": "2022-07-29"
+	},
+	{
+		"codigo_passagem": 2645,
+		"nro_cartao": "491615 836429 1285",
+		"codigo_seguranca_cartao": 442,
+		"valor_passagem": "R$57,89",
+		"data_viagem": "2022-03-24"
+	},
+	{
+		"codigo_passagem": 3259,
+		"nro_cartao": "3014 843588 89785",
+		"codigo_seguranca_cartao": 597,
+		"valor_passagem": "R$72,23",
+		"data_viagem": "2022-10-22"
+	},
+	{
+		"codigo_passagem": 8109,
+		"nro_cartao": "4905 7767 8694 5296",
+		"codigo_seguranca_cartao": 142,
+		"valor_passagem": "R$29,35",
+		"data_viagem": "2021-06-24"
+	},
+	{
+		"codigo_passagem": 4321,
+		"nro_cartao": "484472 2942521690",
+		"codigo_seguranca_cartao": 252,
+		"valor_passagem": "R$87,75",
+		"data_viagem": "2021-11-11"
+	},
+	{
+		"codigo_passagem": 9878,
+		"nro_cartao": "646863 478259 7745",
+		"codigo_seguranca_cartao": 814,
+		"valor_passagem": "R$17,55",
+		"data_viagem": "2021-08-21"
+	},
+	{
+		"codigo_passagem": 7023,
+		"nro_cartao": "57913431487427",
+		"codigo_seguranca_cartao": 416,
+		"valor_passagem": "R$24,61",
+		"data_viagem": "2021-12-07"
+	},
+	{
+		"codigo_passagem": 4751,
+		"nro_cartao": "5121 4676 2569 4117",
+		"codigo_seguranca_cartao": 908,
+		"valor_passagem": "R$93,96",
+		"data_viagem": "2023-01-18"
+	},
+	{
+		"codigo_passagem": 6525,
+		"nro_cartao": "644537 485858 3588",
+		"codigo_seguranca_cartao": 964,
+		"valor_passagem": "R$20,60",
+		"data_viagem": "2021-05-22"
+	},
+	{
+		"codigo_passagem": 6155,
+		"nro_cartao": "3662 657737 34611",
+		"codigo_seguranca_cartao": 319,
+		"valor_passagem": "R$97,43",
+		"data_viagem": "2022-05-29"
+	},
+	{
+		"codigo_passagem": 3661,
+		"nro_cartao": "364877223333554",
+		"codigo_seguranca_cartao": 466,
+		"valor_passagem": "R$76,13",
+		"data_viagem": "2022-04-09"
+	},
+	{
+		"codigo_passagem": 6080,
+		"nro_cartao": "4175 0093 4244 6358",
+		"codigo_seguranca_cartao": 536,
+		"valor_passagem": "R$85,53",
+		"data_viagem": "2021-11-25"
+	},
+	{
+		"codigo_passagem": 3545,
+		"nro_cartao": "4903566877622439430",
+		"codigo_seguranca_cartao": 449,
+		"valor_passagem": "R$4,80",
+		"data_viagem": "2022-07-15"
+	},
+	{
+		"codigo_passagem": 8679,
+		"nro_cartao": "572675924459",
+		"codigo_seguranca_cartao": 637,
+		"valor_passagem": "R$47,16",
+		"data_viagem": "2023-02-03"
+	},
+	{
+		"codigo_passagem": 8520,
+		"nro_cartao": "5877 3374 1495 5589",
+		"codigo_seguranca_cartao": 716,
+		"valor_passagem": "R$66,46",
+		"data_viagem": "2022-05-24"
+	},
+	{
+		"codigo_passagem": 1670,
+		"nro_cartao": "676341375947",
+		"codigo_seguranca_cartao": 446,
+		"valor_passagem": "R$20,43",
+		"data_viagem": "2021-11-08"
+	},
+	{
+		"codigo_passagem": 9850,
+		"nro_cartao": "558786 5342129241",
+		"codigo_seguranca_cartao": 180,
+		"valor_passagem": "R$83,07",
+		"data_viagem": "2022-08-10"
+	},
+	{
+		"codigo_passagem": 1923,
+		"nro_cartao": "676272 93 7966 8788 188",
+		"codigo_seguranca_cartao": 225,
+		"valor_passagem": "R$71,51",
+		"data_viagem": "2021-12-27"
+	},
+	{
+		"codigo_passagem": 5284,
+		"nro_cartao": "3025 617784 12295",
+		"codigo_seguranca_cartao": 896,
+		"valor_passagem": "R$68,63",
+		"data_viagem": "2021-06-10"
+	},
+	{
+		"codigo_passagem": 6465,
+		"nro_cartao": "3685 242389 52731",
+		"codigo_seguranca_cartao": 552,
+		"valor_passagem": "R$37,98",
+		"data_viagem": "2022-08-24"
+	},
+	{
+		"codigo_passagem": 9064,
+		"nro_cartao": "6771987242692388979",
+		"codigo_seguranca_cartao": 830,
+		"valor_passagem": "R$54,25",
+		"data_viagem": "2022-09-04"
+	},
+	{
+		"codigo_passagem": 6574,
+		"nro_cartao": "302367695679689",
+		"codigo_seguranca_cartao": 362,
+		"valor_passagem": "R$19,42",
+		"data_viagem": "2021-03-17"
+	},
+	{
+		"codigo_passagem": 5413,
+		"nro_cartao": "3026 583842 84314",
+		"codigo_seguranca_cartao": 680,
+		"valor_passagem": "R$17,03",
+		"data_viagem": "2022-04-04"
+	},
+	{
+		"codigo_passagem": 3165,
+		"nro_cartao": "670958 537747 3131",
+		"codigo_seguranca_cartao": 170,
+		"valor_passagem": "R$18,11",
+		"data_viagem": "2021-10-19"
+	},
+	{
+		"codigo_passagem": 9127,
+		"nro_cartao": "575948 1533626987",
+		"codigo_seguranca_cartao": 959,
+		"valor_passagem": "R$53,73",
+		"data_viagem": "2022-06-14"
+	},
+	{
+		"codigo_passagem": 2772,
+		"nro_cartao": "3665 776855 28919",
+		"codigo_seguranca_cartao": 763,
+		"valor_passagem": "R$25,15",
+		"data_viagem": "2022-07-29"
+	},
+	{
+		"codigo_passagem": 2973,
+		"nro_cartao": "3712 279527 33635",
+		"codigo_seguranca_cartao": 597,
+		"valor_passagem": "R$30,60",
+		"data_viagem": "2022-02-11"
+	},
+	{
+		"codigo_passagem": 6109,
+		"nro_cartao": "675 95573 43475 291",
+		"codigo_seguranca_cartao": 149,
+		"valor_passagem": "R$79,41",
+		"data_viagem": "2023-01-11"
+	},
+	{
+		"codigo_passagem": 6478,
+		"nro_cartao": "3047 438587 41151",
+		"codigo_seguranca_cartao": 381,
+		"valor_passagem": "R$50,00",
+		"data_viagem": "2023-01-15"
+	},
+	{
+		"codigo_passagem": 5479,
+		"nro_cartao": "633384264285587548",
+		"codigo_seguranca_cartao": 367,
+		"valor_passagem": "R$77,99",
+		"data_viagem": "2022-02-24"
+	},
+	{
+		"codigo_passagem": 7851,
+		"nro_cartao": "633333862227361427",
+		"codigo_seguranca_cartao": 761,
+		"valor_passagem": "R$2,48",
+		"data_viagem": "2022-07-01"
+	},
+	{
+		"codigo_passagem": 9221,
+		"nro_cartao": "3621 436821 16721",
+		"codigo_seguranca_cartao": 884,
+		"valor_passagem": "R$99,53",
+		"data_viagem": "2021-09-17"
+	},
+	{
+		"codigo_passagem": 2266,
+		"nro_cartao": "455 65863 24646 153",
+		"codigo_seguranca_cartao": 453,
+		"valor_passagem": "R$70,80",
+		"data_viagem": "2021-03-13"
+	},
+	{
+		"codigo_passagem": 6184,
+		"nro_cartao": "365675178565264",
+		"codigo_seguranca_cartao": 835,
+		"valor_passagem": "R$65,29",
+		"data_viagem": "2021-06-09"
+	},
+	{
+		"codigo_passagem": 8771,
+		"nro_cartao": "558839 324428 4682",
+		"codigo_seguranca_cartao": 436,
+		"valor_passagem": "R$56,45",
+		"data_viagem": "2021-03-15"
+	},
+	{
+		"codigo_passagem": 2996,
+		"nro_cartao": "303766342535732",
+		"codigo_seguranca_cartao": 416,
+		"valor_passagem": "R$63,10",
+		"data_viagem": "2021-06-22"
+	},
+	{
+		"codigo_passagem": 9616,
+		"nro_cartao": "366428621854847",
+		"codigo_seguranca_cartao": 404,
+		"valor_passagem": "R$61,32",
+		"data_viagem": "2021-04-11"
+	},
+	{
+		"codigo_passagem": 2571,
+		"nro_cartao": "503895 458571 4698",
+		"codigo_seguranca_cartao": 288,
+		"valor_passagem": "R$97,70",
+		"data_viagem": "2023-01-15"
+	},
+	{
+		"codigo_passagem": 4695,
+		"nro_cartao": "6761 872 83 8435",
+		"codigo_seguranca_cartao": 203,
+		"valor_passagem": "R$86,89",
+		"data_viagem": "2023-02-20"
+	},
+	{
+		"codigo_passagem": 2111,
+		"nro_cartao": "503824 81 3428 8161 986",
+		"codigo_seguranca_cartao": 709,
+		"valor_passagem": "R$42,01",
+		"data_viagem": "2021-07-11"
+	},
+	{
+		"codigo_passagem": 1306,
+		"nro_cartao": "676775 2568765340",
+		"codigo_seguranca_cartao": 133,
+		"valor_passagem": "R$90,23",
+		"data_viagem": "2021-06-04"
+	},
+	{
+		"codigo_passagem": 1771,
+		"nro_cartao": "4917424538573167",
+		"codigo_seguranca_cartao": 691,
+		"valor_passagem": "R$30,32",
+		"data_viagem": "2022-06-20"
+	},
+	{
+		"codigo_passagem": 8253,
+		"nro_cartao": "300748219224320",
+		"codigo_seguranca_cartao": 757,
+		"valor_passagem": "R$7,83",
+		"data_viagem": "2021-05-24"
+	},
+	{
+		"codigo_passagem": 5697,
+		"nro_cartao": "587748333371",
+		"codigo_seguranca_cartao": 317,
+		"valor_passagem": "R$95,61",
+		"data_viagem": "2023-01-02"
+	},
+	{
+		"codigo_passagem": 9691,
+		"nro_cartao": "569826 652725 7236",
+		"codigo_seguranca_cartao": 437,
+		"valor_passagem": "R$93,31",
+		"data_viagem": "2022-05-25"
+	},
+	{
+		"codigo_passagem": 6434,
+		"nro_cartao": "537572 568643 4241",
+		"codigo_seguranca_cartao": 590,
+		"valor_passagem": "R$28,36",
+		"data_viagem": "2022-04-01"
+	},
+	{
+		"codigo_passagem": 5773,
+		"nro_cartao": "552 29563 16518 564",
+		"codigo_seguranca_cartao": 477,
+		"valor_passagem": "R$65,68",
+		"data_viagem": "2022-06-28"
+	},
+	{
+		"codigo_passagem": 3244,
+		"nro_cartao": "4218 2827 5587 1276",
+		"codigo_seguranca_cartao": 121,
+		"valor_passagem": "R$32,52",
+		"data_viagem": "2021-06-05"
+	},
+	{
+		"codigo_passagem": 4044,
+		"nro_cartao": "493 65518 52142 927",
+		"codigo_seguranca_cartao": 638,
+		"valor_passagem": "R$51,27",
+		"data_viagem": "2021-06-26"
+	},
+	{
+		"codigo_passagem": 4295,
+		"nro_cartao": "676744 9338645726",
+		"codigo_seguranca_cartao": 653,
+		"valor_passagem": "R$9,83",
+		"data_viagem": "2022-09-07"
+	},
+	{
+		"codigo_passagem": 7003,
+		"nro_cartao": "6771247998713883837",
+		"codigo_seguranca_cartao": 485,
+		"valor_passagem": "R$28,93",
+		"data_viagem": "2021-08-29"
+	},
+	{
+		"codigo_passagem": 2666,
+		"nro_cartao": "633464324212566776",
+		"codigo_seguranca_cartao": 681,
+		"valor_passagem": "R$90,72",
+		"data_viagem": "2022-03-17"
+	},
+	{
+		"codigo_passagem": 2454,
+		"nro_cartao": "402 66663 62748 459",
+		"codigo_seguranca_cartao": 980,
+		"valor_passagem": "R$34,41",
+		"data_viagem": "2021-09-20"
+	},
+	{
+		"codigo_passagem": 6469,
+		"nro_cartao": "303488924874443",
+		"codigo_seguranca_cartao": 309,
+		"valor_passagem": "R$75,03",
+		"data_viagem": "2022-01-21"
+	},
+	{
+		"codigo_passagem": 4211,
+		"nro_cartao": "484 45837 79342 240",
+		"codigo_seguranca_cartao": 684,
+		"valor_passagem": "R$59,17",
+		"data_viagem": "2022-11-29"
+	},
+	{
+		"codigo_passagem": 8470,
+		"nro_cartao": "633476 92 7657 2781 821",
+		"codigo_seguranca_cartao": 371,
+		"valor_passagem": "R$58,28",
+		"data_viagem": "2022-09-22"
+	},
+	{
+		"codigo_passagem": 3957,
+		"nro_cartao": "651727 7763433448",
+		"codigo_seguranca_cartao": 413,
+		"valor_passagem": "R$52,30",
+		"data_viagem": "2022-11-11"
+	},
+	{
+		"codigo_passagem": 7959,
+		"nro_cartao": "546 25637 61631 827",
+		"codigo_seguranca_cartao": 866,
+		"valor_passagem": "R$20,00",
+		"data_viagem": "2021-03-08"
+	},
+	{
+		"codigo_passagem": 9260,
+		"nro_cartao": "4026587134225370",
+		"codigo_seguranca_cartao": 709,
+		"valor_passagem": "R$94,91",
+		"data_viagem": "2022-09-03"
+	},
+	{
+		"codigo_passagem": 3966,
+		"nro_cartao": "4844876744349864",
+		"codigo_seguranca_cartao": 862,
+		"valor_passagem": "R$61,51",
+		"data_viagem": "2022-04-26"
+	},
+	{
+		"codigo_passagem": 2271,
+		"nro_cartao": "491326 2524333574",
+		"codigo_seguranca_cartao": 385,
+		"valor_passagem": "R$30,30",
+		"data_viagem": "2022-11-12"
+	},
+	{
+		"codigo_passagem": 9048,
+		"nro_cartao": "492946 247857 7240",
+		"codigo_seguranca_cartao": 329,
+		"valor_passagem": "R$17,43",
+		"data_viagem": "2021-07-03"
+	},
+	{
+		"codigo_passagem": 9424,
+		"nro_cartao": "3448 553333 64698",
+		"codigo_seguranca_cartao": 325,
+		"valor_passagem": "R$37,18",
+		"data_viagem": "2021-03-11"
+	},
+	{
+		"codigo_passagem": 5922,
+		"nro_cartao": "491336 818444 8386",
+		"codigo_seguranca_cartao": 859,
+		"valor_passagem": "R$9,63",
+		"data_viagem": "2021-11-06"
+	},
+	{
+		"codigo_passagem": 3988,
+		"nro_cartao": "589384 28 9838 5132 763",
+		"codigo_seguranca_cartao": 276,
+		"valor_passagem": "R$50,79",
+		"data_viagem": "2021-12-17"
+	},
+	{
+		"codigo_passagem": 5814,
+		"nro_cartao": "3716 513548 46663",
+		"codigo_seguranca_cartao": 900,
+		"valor_passagem": "R$37,63",
+		"data_viagem": "2022-09-01"
+	},
+	{
+		"codigo_passagem": 3899,
+		"nro_cartao": "369464367752348",
+		"codigo_seguranca_cartao": 775,
+		"valor_passagem": "R$17,71",
+		"data_viagem": "2021-03-19"
+	},
+	{
+		"codigo_passagem": 2800,
+		"nro_cartao": "305834815642464",
+		"codigo_seguranca_cartao": 429,
+		"valor_passagem": "R$47,87",
+		"data_viagem": "2021-06-21"
+	},
+	{
+		"codigo_passagem": 2696,
+		"nro_cartao": "348583377816375",
+		"codigo_seguranca_cartao": 126,
+		"valor_passagem": "R$18,38",
+		"data_viagem": "2021-11-09"
+	},
+	{
+		"codigo_passagem": 3921,
+		"nro_cartao": "6767 8655 2155 4633",
+		"codigo_seguranca_cartao": 132,
+		"valor_passagem": "R$83,50",
+		"data_viagem": "2022-04-23"
+	},
+	{
+		"codigo_passagem": 9779,
+		"nro_cartao": "363568229828710",
+		"codigo_seguranca_cartao": 182,
+		"valor_passagem": "R$96,68",
+		"data_viagem": "2023-02-07"
+	},
+	{
+		"codigo_passagem": 1377,
+		"nro_cartao": "3651 183771 54358",
+		"codigo_seguranca_cartao": 346,
+		"valor_passagem": "R$22,84",
+		"data_viagem": "2022-07-18"
+	},
+	{
+		"codigo_passagem": 8530,
+		"nro_cartao": "633425 3141662728",
+		"codigo_seguranca_cartao": 634,
+		"valor_passagem": "R$34,76",
+		"data_viagem": "2022-08-14"
+	},
+	{
+		"codigo_passagem": 3041,
+		"nro_cartao": "67093967834748819",
+		"codigo_seguranca_cartao": 807,
+		"valor_passagem": "R$73,89",
+		"data_viagem": "2022-09-24"
+	},
+	{
+		"codigo_passagem": 4834,
+		"nro_cartao": "3676 298973 52551",
+		"codigo_seguranca_cartao": 726,
+		"valor_passagem": "R$11,74",
+		"data_viagem": "2021-05-23"
+	},
+	{
+		"codigo_passagem": 2436,
+		"nro_cartao": "670961644659448117",
+		"codigo_seguranca_cartao": 816,
+		"valor_passagem": "R$69,09",
+		"data_viagem": "2021-10-11"
+	},
+	{
+		"codigo_passagem": 1594,
+		"nro_cartao": "677 19994 79627 473",
+		"codigo_seguranca_cartao": 363,
+		"valor_passagem": "R$66,64",
+		"data_viagem": "2021-04-25"
+	},
+	{
+		"codigo_passagem": 9732,
+		"nro_cartao": "2014 277661 73862",
+		"codigo_seguranca_cartao": 254,
+		"valor_passagem": "R$47,82",
+		"data_viagem": "2022-02-17"
+	},
+	{
+		"codigo_passagem": 2507,
+		"nro_cartao": "3686 979266 44438",
+		"codigo_seguranca_cartao": 151,
+		"valor_passagem": "R$4,95",
+		"data_viagem": "2022-11-11"
+	},
+	{
+		"codigo_passagem": 3750,
+		"nro_cartao": "67636862882135",
+		"codigo_seguranca_cartao": 423,
+		"valor_passagem": "R$48,87",
+		"data_viagem": "2021-12-18"
+	},
+	{
+		"codigo_passagem": 9008,
+		"nro_cartao": "501829158332686594",
+		"codigo_seguranca_cartao": 182,
+		"valor_passagem": "R$15,18",
+		"data_viagem": "2021-04-20"
+	},
+	{
+		"codigo_passagem": 8932,
+		"nro_cartao": "3036 956768 55681",
+		"codigo_seguranca_cartao": 768,
+		"valor_passagem": "R$51,80",
+		"data_viagem": "2022-02-05"
+	},
+	{
+		"codigo_passagem": 6503,
+		"nro_cartao": "3005 261815 69363",
+		"codigo_seguranca_cartao": 167,
+		"valor_passagem": "R$5,55",
+		"data_viagem": "2021-08-02"
+	},
+	{
+		"codigo_passagem": 6917,
+		"nro_cartao": "2149 668698 29776",
+		"codigo_seguranca_cartao": 418,
+		"valor_passagem": "R$88,66",
+		"data_viagem": "2021-06-12"
+	},
+	{
+		"codigo_passagem": 2640,
+		"nro_cartao": "515276 854948 1362",
+		"codigo_seguranca_cartao": 631,
+		"valor_passagem": "R$60,06",
+		"data_viagem": "2022-03-04"
+	},
+	{
+		"codigo_passagem": 9019,
+		"nro_cartao": "3644 876422 45775",
+		"codigo_seguranca_cartao": 949,
+		"valor_passagem": "R$87,31",
+		"data_viagem": "2022-10-08"
+	},
+	{
+		"codigo_passagem": 1686,
+		"nro_cartao": "491358 333731 7821",
+		"codigo_seguranca_cartao": 691,
+		"valor_passagem": "R$73,87",
+		"data_viagem": "2022-06-07"
+	},
+	{
+		"codigo_passagem": 8342,
+		"nro_cartao": "676762 834127 8662",
+		"codigo_seguranca_cartao": 409,
+		"valor_passagem": "R$6,17",
+		"data_viagem": "2021-10-11"
+	},
+	{
+		"codigo_passagem": 2246,
+		"nro_cartao": "676762 4783184476",
+		"codigo_seguranca_cartao": 868,
+		"valor_passagem": "R$66,10",
+		"data_viagem": "2022-10-04"
+	},
+	{
+		"codigo_passagem": 7836,
+		"nro_cartao": "491322 8218138330",
+		"codigo_seguranca_cartao": 554,
+		"valor_passagem": "R$54,04",
+		"data_viagem": "2023-01-28"
+	},
+	{
+		"codigo_passagem": 6743,
+		"nro_cartao": "5493 9969 3753 6293",
+		"codigo_seguranca_cartao": 577,
+		"valor_passagem": "R$56,09",
+		"data_viagem": "2021-03-25"
+	},
+	{
+		"codigo_passagem": 6524,
+		"nro_cartao": "364398662215897",
+		"codigo_seguranca_cartao": 717,
+		"valor_passagem": "R$62,38",
+		"data_viagem": "2022-10-16"
+	},
+	{
+		"codigo_passagem": 8054,
+		"nro_cartao": "491156674324758617",
+		"codigo_seguranca_cartao": 615,
+		"valor_passagem": "R$93,21",
+		"data_viagem": "2021-03-05"
+	},
+	{
+		"codigo_passagem": 3086,
+		"nro_cartao": "2014 311982 94544",
+		"codigo_seguranca_cartao": 271,
+		"valor_passagem": "R$90,38",
+		"data_viagem": "2022-11-18"
+	},
+	{
+		"codigo_passagem": 5364,
+		"nro_cartao": "6709781587963934",
+		"codigo_seguranca_cartao": 139,
+		"valor_passagem": "R$57,69",
+		"data_viagem": "2022-04-26"
+	},
+	{
+		"codigo_passagem": 3280,
+		"nro_cartao": "4026275234852323",
+		"codigo_seguranca_cartao": 193,
+		"valor_passagem": "R$2,11",
+		"data_viagem": "2023-02-17"
+	},
+	{
+		"codigo_passagem": 2795,
+		"nro_cartao": "3434 682727 42287",
+		"codigo_seguranca_cartao": 967,
+		"valor_passagem": "R$48,81",
+		"data_viagem": "2021-03-23"
+	},
+	{
+		"codigo_passagem": 4213,
+		"nro_cartao": "491394 547435 9777",
+		"codigo_seguranca_cartao": 180,
+		"valor_passagem": "R$22,67",
+		"data_viagem": "2021-06-22"
+	},
+	{
+		"codigo_passagem": 5959,
+		"nro_cartao": "374548337472871",
+		"codigo_seguranca_cartao": 936,
+		"valor_passagem": "R$4,86",
+		"data_viagem": "2022-09-26"
+	},
+	{
+		"codigo_passagem": 1430,
+		"nro_cartao": "4026743829498364",
+		"codigo_seguranca_cartao": 705,
+		"valor_passagem": "R$69,71",
+		"data_viagem": "2021-11-24"
+	},
+	{
+		"codigo_passagem": 5236,
+		"nro_cartao": "5277825952787170",
+		"codigo_seguranca_cartao": 407,
+		"valor_passagem": "R$30,84",
+		"data_viagem": "2022-05-29"
+	},
+	{
+		"codigo_passagem": 5674,
+		"nro_cartao": "633444 718383 5487",
+		"codigo_seguranca_cartao": 582,
+		"valor_passagem": "R$12,16",
+		"data_viagem": "2021-03-06"
+	},
+	{
+		"codigo_passagem": 7246,
+		"nro_cartao": "367378334687936",
+		"codigo_seguranca_cartao": 974,
+		"valor_passagem": "R$58,42",
+		"data_viagem": "2021-06-21"
+	},
+	{
+		"codigo_passagem": 6645,
+		"nro_cartao": "6759 5516 7474 6354",
+		"codigo_seguranca_cartao": 423,
+		"valor_passagem": "R$92,11",
+		"data_viagem": "2023-03-04"
+	},
+	{
+		"codigo_passagem": 6456,
+		"nro_cartao": "342525387649847",
+		"codigo_seguranca_cartao": 722,
+		"valor_passagem": "R$1,29",
+		"data_viagem": "2022-04-03"
+	},
+	{
+		"codigo_passagem": 1813,
+		"nro_cartao": "343237238837220",
+		"codigo_seguranca_cartao": 789,
+		"valor_passagem": "R$96,45",
+		"data_viagem": "2022-09-08"
+	},
+	{
+		"codigo_passagem": 6072,
+		"nro_cartao": "303366555536731",
+		"codigo_seguranca_cartao": 415,
+		"valor_passagem": "R$65,97",
+		"data_viagem": "2022-09-14"
+	},
+	{
+		"codigo_passagem": 4216,
+		"nro_cartao": "3028 863696 98832",
+		"codigo_seguranca_cartao": 151,
+		"valor_passagem": "R$60,82",
+		"data_viagem": "2022-01-23"
+	},
+	{
+		"codigo_passagem": 3894,
+		"nro_cartao": "676238282582464",
+		"codigo_seguranca_cartao": 568,
+		"valor_passagem": "R$57,44",
+		"data_viagem": "2022-03-20"
+	},
+	{
+		"codigo_passagem": 7486,
+		"nro_cartao": "6453568746856259",
+		"codigo_seguranca_cartao": 679,
+		"valor_passagem": "R$18,97",
+		"data_viagem": "2022-11-03"
+	},
+	{
+		"codigo_passagem": 5931,
+		"nro_cartao": "5465 3392 2892 3488",
+		"codigo_seguranca_cartao": 900,
+		"valor_passagem": "R$79,43",
+		"data_viagem": "2021-11-16"
+	},
+	{
+		"codigo_passagem": 5301,
+		"nro_cartao": "633445 274555 3255",
+		"codigo_seguranca_cartao": 215,
+		"valor_passagem": "R$9,31",
+		"data_viagem": "2021-04-11"
+	},
+	{
+		"codigo_passagem": 6077,
+		"nro_cartao": "3483 614511 58851",
+		"codigo_seguranca_cartao": 562,
+		"valor_passagem": "R$0,69",
+		"data_viagem": "2022-12-23"
+	},
+	{
+		"codigo_passagem": 3683,
+		"nro_cartao": "647268 498765 1239",
+		"codigo_seguranca_cartao": 805,
+		"valor_passagem": "R$92,32",
+		"data_viagem": "2021-09-25"
+	},
+	{
+		"codigo_passagem": 1679,
+		"nro_cartao": "6334466743535666445",
+		"codigo_seguranca_cartao": 721,
+		"valor_passagem": "R$89,55",
+		"data_viagem": "2022-10-24"
+	},
+	{
+		"codigo_passagem": 3994,
+		"nro_cartao": "300524472854453",
+		"codigo_seguranca_cartao": 802,
+		"valor_passagem": "R$79,04",
+		"data_viagem": "2022-03-10"
+	},
+	{
+		"codigo_passagem": 5402,
+		"nro_cartao": "6771888476339333333",
+		"codigo_seguranca_cartao": 963,
+		"valor_passagem": "R$46,19",
+		"data_viagem": "2022-04-12"
+	},
+	{
+		"codigo_passagem": 4124,
+		"nro_cartao": "455 62467 28476 380",
+		"codigo_seguranca_cartao": 768,
+		"valor_passagem": "R$98,97",
+		"data_viagem": "2021-04-22"
+	},
+	{
+		"codigo_passagem": 6931,
+		"nro_cartao": "5523 6285 8368 4721",
+		"codigo_seguranca_cartao": 209,
+		"valor_passagem": "R$1,73",
+		"data_viagem": "2022-01-08"
+	},
+	{
+		"codigo_passagem": 1366,
+		"nro_cartao": "543794 478923 3659",
+		"codigo_seguranca_cartao": 350,
+		"valor_passagem": "R$0,17",
+		"data_viagem": "2021-07-05"
+	},
+	{
+		"codigo_passagem": 1127,
+		"nro_cartao": "361627529375822",
+		"codigo_seguranca_cartao": 175,
+		"valor_passagem": "R$59,78",
+		"data_viagem": "2022-10-10"
+	},
+	{
+		"codigo_passagem": 1885,
+		"nro_cartao": "633327 43 6649 5234 287",
+		"codigo_seguranca_cartao": 382,
+		"valor_passagem": "R$13,57",
+		"data_viagem": "2021-08-19"
+	},
+	{
+		"codigo_passagem": 6358,
+		"nro_cartao": "3046 854985 47284",
+		"codigo_seguranca_cartao": 598,
+		"valor_passagem": "R$55,51",
+		"data_viagem": "2021-05-17"
+	},
+	{
+		"codigo_passagem": 3575,
+		"nro_cartao": "646 67893 37639 772",
+		"codigo_seguranca_cartao": 243,
+		"valor_passagem": "R$26,92",
+		"data_viagem": "2022-07-11"
+	},
+	{
+		"codigo_passagem": 9235,
+		"nro_cartao": "676787584752844334",
+		"codigo_seguranca_cartao": 167,
+		"valor_passagem": "R$27,19",
+		"data_viagem": "2023-01-13"
+	},
+	{
+		"codigo_passagem": 4541,
+		"nro_cartao": "6767196861317393",
+		"codigo_seguranca_cartao": 245,
+		"valor_passagem": "R$6,30",
+		"data_viagem": "2023-01-08"
+	},
+	{
+		"codigo_passagem": 2119,
+		"nro_cartao": "6331107618169679",
+		"codigo_seguranca_cartao": 181,
+		"valor_passagem": "R$18,00",
+		"data_viagem": "2022-12-05"
+	},
+	{
+		"codigo_passagem": 2523,
+		"nro_cartao": "633458 5263429380",
+		"codigo_seguranca_cartao": 915,
+		"valor_passagem": "R$83,05",
+		"data_viagem": "2023-02-17"
+	},
+	{
+		"codigo_passagem": 6733,
+		"nro_cartao": "491744 7545446945",
+		"codigo_seguranca_cartao": 989,
+		"valor_passagem": "R$9,15",
+		"data_viagem": "2022-08-26"
+	},
+	{
+		"codigo_passagem": 3774,
+		"nro_cartao": "670 64239 71867 479",
+		"codigo_seguranca_cartao": 539,
+		"valor_passagem": "R$36,26",
+		"data_viagem": "2022-07-30"
+	},
+	{
+		"codigo_passagem": 1754,
+		"nro_cartao": "2014 213585 77556",
+		"codigo_seguranca_cartao": 798,
+		"valor_passagem": "R$75,55",
+		"data_viagem": "2022-05-02"
+	},
+	{
+		"codigo_passagem": 5316,
+		"nro_cartao": "572741 953522 7874",
+		"codigo_seguranca_cartao": 620,
+		"valor_passagem": "R$91,08",
+		"data_viagem": "2022-12-25"
+	},
+	{
+		"codigo_passagem": 8645,
+		"nro_cartao": "543487 4211429786",
+		"codigo_seguranca_cartao": 220,
+		"valor_passagem": "R$3,73",
+		"data_viagem": "2021-07-22"
+	},
+	{
+		"codigo_passagem": 9015,
+		"nro_cartao": "3636 664752 69678",
+		"codigo_seguranca_cartao": 198,
+		"valor_passagem": "R$96,31",
+		"data_viagem": "2022-10-08"
+	},
+	{
+		"codigo_passagem": 6632,
+		"nro_cartao": "343927261824281",
+		"codigo_seguranca_cartao": 314,
+		"valor_passagem": "R$15,21",
+		"data_viagem": "2022-03-08"
+	},
+	{
+		"codigo_passagem": 6772,
+		"nro_cartao": "670 95834 28837 347",
+		"codigo_seguranca_cartao": 474,
+		"valor_passagem": "R$29,71",
+		"data_viagem": "2022-11-09"
+	},
+	{
+		"codigo_passagem": 3071,
+		"nro_cartao": "630435 2315743417",
+		"codigo_seguranca_cartao": 558,
+		"valor_passagem": "R$27,18",
+		"data_viagem": "2021-09-14"
+	},
+	{
+		"codigo_passagem": 2102,
+		"nro_cartao": "633110 2438572665",
+		"codigo_seguranca_cartao": 388,
+		"valor_passagem": "R$50,77",
+		"data_viagem": "2021-06-17"
+	},
+	{
+		"codigo_passagem": 9701,
+		"nro_cartao": "67631215498448881",
+		"codigo_seguranca_cartao": 351,
+		"valor_passagem": "R$41,02",
+		"data_viagem": "2022-02-02"
+	},
+	{
+		"codigo_passagem": 7437,
+		"nro_cartao": "6767343537131266737",
+		"codigo_seguranca_cartao": 996,
+		"valor_passagem": "R$67,14",
+		"data_viagem": "2021-04-16"
+	},
+	{
+		"codigo_passagem": 5453,
+		"nro_cartao": "6463925527696312",
+		"codigo_seguranca_cartao": 251,
+		"valor_passagem": "R$5,22",
+		"data_viagem": "2022-03-17"
+	},
+	{
+		"codigo_passagem": 8477,
+		"nro_cartao": "6445 7436 7481 3249",
+		"codigo_seguranca_cartao": 425,
+		"valor_passagem": "R$40,18",
+		"data_viagem": "2021-03-09"
+	},
+	{
+		"codigo_passagem": 3914,
+		"nro_cartao": "3003 643388 44855",
+		"codigo_seguranca_cartao": 218,
+		"valor_passagem": "R$83,97",
+		"data_viagem": "2022-02-10"
+	},
+	{
+		"codigo_passagem": 9578,
+		"nro_cartao": "490543 74 6845 3443 360",
+		"codigo_seguranca_cartao": 936,
+		"valor_passagem": "R$79,26",
+		"data_viagem": "2022-03-30"
+	},
+	{
+		"codigo_passagem": 9154,
+		"nro_cartao": "5562 6242 3557 8629",
+		"codigo_seguranca_cartao": 296,
+		"valor_passagem": "R$41,21",
+		"data_viagem": "2022-04-08"
+	},
+	{
+		"codigo_passagem": 3571,
+		"nro_cartao": "4716 453 12 5545",
+		"codigo_seguranca_cartao": 173,
+		"valor_passagem": "R$19,73",
+		"data_viagem": "2021-07-30"
+	},
+	{
+		"codigo_passagem": 4872,
+		"nro_cartao": "484 43264 64431 179",
+		"codigo_seguranca_cartao": 519,
+		"valor_passagem": "R$95,34",
+		"data_viagem": "2022-06-14"
+	},
+	{
+		"codigo_passagem": 2271,
+		"nro_cartao": "601 15638 26737 185",
+		"codigo_seguranca_cartao": 759,
+		"valor_passagem": "R$43,36",
+		"data_viagem": "2022-08-13"
+	},
+	{
+		"codigo_passagem": 2195,
+		"nro_cartao": "670964 5936464284",
+		"codigo_seguranca_cartao": 314,
+		"valor_passagem": "R$49,52",
+		"data_viagem": "2023-02-03"
+	},
+	{
+		"codigo_passagem": 2379,
+		"nro_cartao": "462258 1444349218",
+		"codigo_seguranca_cartao": 903,
+		"valor_passagem": "R$89,61",
+		"data_viagem": "2022-08-01"
+	},
+	{
+		"codigo_passagem": 9645,
+		"nro_cartao": "6334 6976 4826 2491",
+		"codigo_seguranca_cartao": 734,
+		"valor_passagem": "R$2,52",
+		"data_viagem": "2021-04-20"
+	},
+	{
+		"codigo_passagem": 4427,
+		"nro_cartao": "676159 8587664246",
+		"codigo_seguranca_cartao": 904,
+		"valor_passagem": "R$60,66",
+		"data_viagem": "2023-02-08"
+	},
+	{
+		"codigo_passagem": 8565,
+		"nro_cartao": "365239262978923",
+		"codigo_seguranca_cartao": 788,
+		"valor_passagem": "R$54,59",
+		"data_viagem": "2022-11-19"
+	},
+	{
+		"codigo_passagem": 3398,
+		"nro_cartao": "3453 418253 73371",
+		"codigo_seguranca_cartao": 486,
+		"valor_passagem": "R$23,81",
+		"data_viagem": "2022-04-14"
+	},
+	{
+		"codigo_passagem": 4878,
+		"nro_cartao": "4905166942867534227",
+		"codigo_seguranca_cartao": 643,
+		"valor_passagem": "R$29,00",
+		"data_viagem": "2022-02-19"
+	},
+	{
+		"codigo_passagem": 3614,
+		"nro_cartao": "301583433758970",
+		"codigo_seguranca_cartao": 818,
+		"valor_passagem": "R$52,26",
+		"data_viagem": "2022-03-08"
+	},
+	{
+		"codigo_passagem": 5058,
+		"nro_cartao": "3724 547484 83833",
+		"codigo_seguranca_cartao": 601,
+		"valor_passagem": "R$80,37",
+		"data_viagem": "2023-01-24"
+	},
+	{
+		"codigo_passagem": 7848,
+		"nro_cartao": "5894887926877",
+		"codigo_seguranca_cartao": 382,
+		"valor_passagem": "R$38,63",
+		"data_viagem": "2021-11-04"
+	},
+	{
+		"codigo_passagem": 3780,
+		"nro_cartao": "3454 322271 56645",
+		"codigo_seguranca_cartao": 709,
+		"valor_passagem": "R$84,22",
+		"data_viagem": "2022-07-15"
+	},
+	{
+		"codigo_passagem": 6881,
+		"nro_cartao": "4532853289587",
+		"codigo_seguranca_cartao": 154,
+		"valor_passagem": "R$1,16",
+		"data_viagem": "2021-09-21"
+	},
+	{
+		"codigo_passagem": 2544,
+		"nro_cartao": "493634 7465735227",
+		"codigo_seguranca_cartao": 879,
+		"valor_passagem": "R$8,15",
+		"data_viagem": "2022-03-04"
+	},
+	{
+		"codigo_passagem": 7050,
+		"nro_cartao": "471675 5563722226",
+		"codigo_seguranca_cartao": 462,
+		"valor_passagem": "R$56,43",
+		"data_viagem": "2022-05-14"
+	},
+	{
+		"codigo_passagem": 6178,
+		"nro_cartao": "342888888577671",
+		"codigo_seguranca_cartao": 415,
+		"valor_passagem": "R$75,29",
+		"data_viagem": "2021-04-08"
+	},
+	{
+		"codigo_passagem": 6716,
+		"nro_cartao": "201466745546764",
+		"codigo_seguranca_cartao": 363,
+		"valor_passagem": "R$66,82",
+		"data_viagem": "2021-09-11"
+	},
+	{
+		"codigo_passagem": 3895,
+		"nro_cartao": "670672 678831 6674",
+		"codigo_seguranca_cartao": 482,
+		"valor_passagem": "R$45,55",
+		"data_viagem": "2022-01-25"
+	},
+	{
+		"codigo_passagem": 7049,
+		"nro_cartao": "490 53359 52964 415",
+		"codigo_seguranca_cartao": 440,
+		"valor_passagem": "R$77,74",
+		"data_viagem": "2022-01-31"
+	},
+	{
+		"codigo_passagem": 6026,
+		"nro_cartao": "5869465556536",
+		"codigo_seguranca_cartao": 452,
+		"valor_passagem": "R$68,00",
+		"data_viagem": "2022-01-26"
+	},
+	{
+		"codigo_passagem": 4564,
+		"nro_cartao": "378383748541411",
+		"codigo_seguranca_cartao": 965,
+		"valor_passagem": "R$79,78",
+		"data_viagem": "2022-11-03"
+	},
+	{
+		"codigo_passagem": 5646,
+		"nro_cartao": "6481 7799 1551 6857",
+		"codigo_seguranca_cartao": 574,
+		"valor_passagem": "R$76,27",
+		"data_viagem": "2021-11-26"
+	},
+	{
+		"codigo_passagem": 7200,
+		"nro_cartao": "647785 7969526760",
+		"codigo_seguranca_cartao": 486,
+		"valor_passagem": "R$12,34",
+		"data_viagem": "2021-06-04"
+	},
+	{
+		"codigo_passagem": 8849,
+		"nro_cartao": "4175 0094 7532 5643",
+		"codigo_seguranca_cartao": 249,
+		"valor_passagem": "R$30,03",
+		"data_viagem": "2021-10-28"
+	},
+	{
+		"codigo_passagem": 4548,
+		"nro_cartao": "492955 5529974777",
+		"codigo_seguranca_cartao": 984,
+		"valor_passagem": "R$84,03",
+		"data_viagem": "2022-03-21"
+	},
+	{
+		"codigo_passagem": 1973,
+		"nro_cartao": "369414448438417",
+		"codigo_seguranca_cartao": 571,
+		"valor_passagem": "R$10,98",
+		"data_viagem": "2023-02-21"
+	},
+	{
+		"codigo_passagem": 1246,
+		"nro_cartao": "2149 593589 65367",
+		"codigo_seguranca_cartao": 542,
+		"valor_passagem": "R$49,02",
+		"data_viagem": "2021-05-04"
+	},
+	{
+		"codigo_passagem": 8213,
+		"nro_cartao": "6706335228861248",
+		"codigo_seguranca_cartao": 886,
+		"valor_passagem": "R$99,87",
+		"data_viagem": "2022-11-24"
+	},
+	{
+		"codigo_passagem": 1189,
+		"nro_cartao": "363146124682639",
+		"codigo_seguranca_cartao": 912,
+		"valor_passagem": "R$81,76",
+		"data_viagem": "2021-09-24"
+	},
+	{
+		"codigo_passagem": 1552,
+		"nro_cartao": "448 55925 78212 250",
+		"codigo_seguranca_cartao": 870,
+		"valor_passagem": "R$91,88",
+		"data_viagem": "2022-01-02"
+	},
+	{
+		"codigo_passagem": 5723,
+		"nro_cartao": "601182 7786492481",
+		"codigo_seguranca_cartao": 534,
+		"valor_passagem": "R$33,46",
+		"data_viagem": "2021-12-30"
+	},
+	{
+		"codigo_passagem": 7818,
+		"nro_cartao": "633465 8325252841",
+		"codigo_seguranca_cartao": 591,
+		"valor_passagem": "R$0,18",
+		"data_viagem": "2022-08-20"
+	},
+	{
+		"codigo_passagem": 9234,
+		"nro_cartao": "675926 5338821467",
+		"codigo_seguranca_cartao": 602,
+		"valor_passagem": "R$19,87",
+		"data_viagem": "2022-09-29"
+	},
+	{
+		"codigo_passagem": 8706,
+		"nro_cartao": "6759272922148",
+		"codigo_seguranca_cartao": 469,
+		"valor_passagem": "R$28,81",
+		"data_viagem": "2022-01-30"
+	},
+	{
+		"codigo_passagem": 7680,
+		"nro_cartao": "676752 574235 3427",
+		"codigo_seguranca_cartao": 762,
+		"valor_passagem": "R$24,07",
+		"data_viagem": "2021-04-09"
+	},
+	{
+		"codigo_passagem": 1790,
+		"nro_cartao": "633468 272365 2352",
+		"codigo_seguranca_cartao": 361,
+		"valor_passagem": "R$90,26",
+		"data_viagem": "2021-06-24"
+	},
+	{
+		"codigo_passagem": 4279,
+		"nro_cartao": "676218 4483798815",
+		"codigo_seguranca_cartao": 122,
+		"valor_passagem": "R$86,86",
+		"data_viagem": "2021-07-13"
+	},
+	{
+		"codigo_passagem": 7759,
+		"nro_cartao": "4175 0075 4934 9557",
+		"codigo_seguranca_cartao": 315,
+		"valor_passagem": "R$44,69",
+		"data_viagem": "2022-07-25"
+	},
+	{
+		"codigo_passagem": 2348,
+		"nro_cartao": "67714889884527894",
+		"codigo_seguranca_cartao": 781,
+		"valor_passagem": "R$71,25",
+		"data_viagem": "2021-12-08"
+	},
+	{
+		"codigo_passagem": 5409,
+		"nro_cartao": "6446457428883411",
+		"codigo_seguranca_cartao": 681,
+		"valor_passagem": "R$62,19",
+		"data_viagem": "2022-06-30"
+	},
+	{
+		"codigo_passagem": 4101,
+		"nro_cartao": "3761 214643 44756",
+		"codigo_seguranca_cartao": 820,
+		"valor_passagem": "R$1,92",
+		"data_viagem": "2021-08-06"
+	},
+	{
+		"codigo_passagem": 5663,
+		"nro_cartao": "3048 442133 74371",
+		"codigo_seguranca_cartao": 866,
+		"valor_passagem": "R$81,90",
+		"data_viagem": "2022-04-10"
+	},
+	{
+		"codigo_passagem": 3213,
+		"nro_cartao": "644 13925 92546 590",
+		"codigo_seguranca_cartao": 482,
+		"valor_passagem": "R$58,34",
+		"data_viagem": "2021-04-17"
+	},
+	{
+		"codigo_passagem": 8463,
+		"nro_cartao": "3042 274371 69654",
+		"codigo_seguranca_cartao": 777,
+		"valor_passagem": "R$2,28",
+		"data_viagem": "2021-03-19"
+	},
+	{
+		"codigo_passagem": 4155,
+		"nro_cartao": "453 95648 99388 537",
+		"codigo_seguranca_cartao": 287,
+		"valor_passagem": "R$36,99",
+		"data_viagem": "2022-02-14"
+	},
+	{
+		"codigo_passagem": 4984,
+		"nro_cartao": "453283 4576774888",
+		"codigo_seguranca_cartao": 452,
+		"valor_passagem": "R$1,73",
+		"data_viagem": "2022-03-07"
+	},
+	{
+		"codigo_passagem": 2808,
+		"nro_cartao": "5152211224746528",
+		"codigo_seguranca_cartao": 936,
+		"valor_passagem": "R$31,44",
+		"data_viagem": "2021-09-17"
+	},
+	{
+		"codigo_passagem": 4345,
+		"nro_cartao": "6483286367636751",
+		"codigo_seguranca_cartao": 377,
+		"valor_passagem": "R$2,27",
+		"data_viagem": "2022-06-27"
+	},
+	{
+		"codigo_passagem": 4317,
+		"nro_cartao": "362433232253987",
+		"codigo_seguranca_cartao": 234,
+		"valor_passagem": "R$70,36",
+		"data_viagem": "2022-12-08"
+	},
+	{
+		"codigo_passagem": 5024,
+		"nro_cartao": "5833 477824 6624",
+		"codigo_seguranca_cartao": 242,
+		"valor_passagem": "R$62,43",
+		"data_viagem": "2021-04-27"
+	},
+	{
+		"codigo_passagem": 9634,
+		"nro_cartao": "4916 287 73 3437",
+		"codigo_seguranca_cartao": 363,
+		"valor_passagem": "R$15,52",
+		"data_viagem": "2022-03-30"
+	},
+	{
+		"codigo_passagem": 4634,
+		"nro_cartao": "201454675735326",
+		"codigo_seguranca_cartao": 674,
+		"valor_passagem": "R$54,05",
+		"data_viagem": "2021-04-20"
+	},
+	{
+		"codigo_passagem": 5058,
+		"nro_cartao": "450 88625 61723 362",
+		"codigo_seguranca_cartao": 330,
+		"valor_passagem": "R$9,33",
+		"data_viagem": "2021-08-23"
+	},
+	{
+		"codigo_passagem": 7704,
+		"nro_cartao": "361784612843552",
+		"codigo_seguranca_cartao": 614,
+		"valor_passagem": "R$81,35",
+		"data_viagem": "2022-01-26"
+	},
+	{
+		"codigo_passagem": 8779,
+		"nro_cartao": "4026 2392 2671 8595",
+		"codigo_seguranca_cartao": 518,
+		"valor_passagem": "R$69,01",
+		"data_viagem": "2022-01-27"
+	},
+	{
+		"codigo_passagem": 5617,
+		"nro_cartao": "646 56269 59577 321",
+		"codigo_seguranca_cartao": 980,
+		"valor_passagem": "R$72,98",
+		"data_viagem": "2021-04-11"
+	},
+	{
+		"codigo_passagem": 4188,
+		"nro_cartao": "361949424984387",
+		"codigo_seguranca_cartao": 645,
+		"valor_passagem": "R$75,88",
+		"data_viagem": "2021-08-19"
+	},
+	{
+		"codigo_passagem": 7662,
+		"nro_cartao": "6333759242595558657",
+		"codigo_seguranca_cartao": 919,
+		"valor_passagem": "R$70,23",
+		"data_viagem": "2022-10-21"
+	},
+	{
+		"codigo_passagem": 1244,
+		"nro_cartao": "377667865566321",
+		"codigo_seguranca_cartao": 434,
+		"valor_passagem": "R$66,08",
+		"data_viagem": "2022-01-12"
+	},
+	{
+		"codigo_passagem": 2766,
+		"nro_cartao": "450857 229197 2730",
+		"codigo_seguranca_cartao": 263,
+		"valor_passagem": "R$71,12",
+		"data_viagem": "2021-05-27"
+	},
+	{
+		"codigo_passagem": 8392,
+		"nro_cartao": "3688 238254 33588",
+		"codigo_seguranca_cartao": 768,
+		"valor_passagem": "R$61,93",
+		"data_viagem": "2021-12-13"
+	},
+	{
+		"codigo_passagem": 1931,
+		"nro_cartao": "4844 2366 5976 5598",
+		"codigo_seguranca_cartao": 767,
+		"valor_passagem": "R$71,66",
+		"data_viagem": "2021-06-10"
+	},
+	{
+		"codigo_passagem": 6802,
+		"nro_cartao": "6492 6291 2135 4246",
+		"codigo_seguranca_cartao": 937,
+		"valor_passagem": "R$13,90",
+		"data_viagem": "2021-06-01"
+	},
+	{
+		"codigo_passagem": 9291,
+		"nro_cartao": "4485987569898762",
+		"codigo_seguranca_cartao": 831,
+		"valor_passagem": "R$19,32",
+		"data_viagem": "2021-07-24"
+	},
+	{
+		"codigo_passagem": 5963,
+		"nro_cartao": "305177182162421",
+		"codigo_seguranca_cartao": 162,
+		"valor_passagem": "R$16,40",
+		"data_viagem": "2021-12-02"
+	},
+	{
+		"codigo_passagem": 4771,
+		"nro_cartao": "3048 665278 15591",
+		"codigo_seguranca_cartao": 556,
+		"valor_passagem": "R$5,08",
+		"data_viagem": "2021-08-14"
+	},
+	{
+		"codigo_passagem": 7948,
+		"nro_cartao": "372445563876457",
+		"codigo_seguranca_cartao": 906,
+		"valor_passagem": "R$97,82",
+		"data_viagem": "2022-03-06"
+	},
+	{
+		"codigo_passagem": 2634,
+		"nro_cartao": "5439 7136 6732 3850",
+		"codigo_seguranca_cartao": 345,
+		"valor_passagem": "R$44,52",
+		"data_viagem": "2021-09-13"
+	},
+	{
+		"codigo_passagem": 4672,
+		"nro_cartao": "5498 4415 8676 6565",
+		"codigo_seguranca_cartao": 821,
+		"valor_passagem": "R$41,82",
+		"data_viagem": "2021-11-17"
+	},
+	{
+		"codigo_passagem": 7885,
+		"nro_cartao": "4917 9476 9463 2120",
+		"codigo_seguranca_cartao": 977,
+		"valor_passagem": "R$37,28",
+		"data_viagem": "2022-11-01"
+	},
+	{
+		"codigo_passagem": 8625,
+		"nro_cartao": "305565359827380",
+		"codigo_seguranca_cartao": 616,
+		"valor_passagem": "R$74,67",
+		"data_viagem": "2022-04-10"
+	},
+	{
+		"codigo_passagem": 2828,
+		"nro_cartao": "644853 143887 3691",
+		"codigo_seguranca_cartao": 776,
+		"valor_passagem": "R$56,97",
+		"data_viagem": "2022-10-22"
+	},
+	{
+		"codigo_passagem": 2028,
+		"nro_cartao": "670974 4684781823",
+		"codigo_seguranca_cartao": 867,
+		"valor_passagem": "R$24,27",
+		"data_viagem": "2021-12-12"
+	},
+	{
+		"codigo_passagem": 8970,
+		"nro_cartao": "3623 418859 29318",
+		"codigo_seguranca_cartao": 968,
+		"valor_passagem": "R$83,92",
+		"data_viagem": "2022-10-29"
+	},
+	{
+		"codigo_passagem": 8348,
+		"nro_cartao": "2149 443236 88658",
+		"codigo_seguranca_cartao": 989,
+		"valor_passagem": "R$26,85",
+		"data_viagem": "2021-09-06"
+	},
+	{
+		"codigo_passagem": 1151,
+		"nro_cartao": "367347535155654",
+		"codigo_seguranca_cartao": 632,
+		"valor_passagem": "R$46,97",
+		"data_viagem": "2022-03-07"
+	},
+	{
+		"codigo_passagem": 9566,
+		"nro_cartao": "417500 9332827351",
+		"codigo_seguranca_cartao": 458,
+		"valor_passagem": "R$75,26",
+		"data_viagem": "2022-10-19"
+	},
+	{
+		"codigo_passagem": 3976,
+		"nro_cartao": "368438229927885",
+		"codigo_seguranca_cartao": 634,
+		"valor_passagem": "R$18,99",
+		"data_viagem": "2022-06-16"
+	},
+	{
+		"codigo_passagem": 4447,
+		"nro_cartao": "5412 3349 2827 7420",
+		"codigo_seguranca_cartao": 798,
+		"valor_passagem": "R$14,71",
+		"data_viagem": "2022-02-07"
+	},
+	{
+		"codigo_passagem": 7209,
+		"nro_cartao": "4917 9764 7233 8212",
+		"codigo_seguranca_cartao": 715,
+		"valor_passagem": "R$9,15",
+		"data_viagem": "2021-03-30"
+	},
+	{
+		"codigo_passagem": 3513,
+		"nro_cartao": "2149 555618 76664",
+		"codigo_seguranca_cartao": 249,
+		"valor_passagem": "R$78,02",
+		"data_viagem": "2022-07-14"
+	},
+	{
+		"codigo_passagem": 3590,
+		"nro_cartao": "676 78449 52524 654",
+		"codigo_seguranca_cartao": 469,
+		"valor_passagem": "R$97,24",
+		"data_viagem": "2022-06-26"
+	},
+	{
+		"codigo_passagem": 8448,
+		"nro_cartao": "6444 6633 9346 6726",
+		"codigo_seguranca_cartao": 429,
+		"valor_passagem": "R$65,05",
+		"data_viagem": "2023-02-21"
+	},
+	{
+		"codigo_passagem": 4795,
+		"nro_cartao": "3016 655473 59967",
+		"codigo_seguranca_cartao": 734,
+		"valor_passagem": "R$57,37",
+		"data_viagem": "2023-01-14"
+	},
+	{
+		"codigo_passagem": 2446,
+		"nro_cartao": "362557814444265",
+		"codigo_seguranca_cartao": 755,
+		"valor_passagem": "R$74,45",
+		"data_viagem": "2022-05-08"
+	},
+	{
+		"codigo_passagem": 3505,
+		"nro_cartao": "2149 652825 96517",
+		"codigo_seguranca_cartao": 388,
+		"valor_passagem": "R$44,61",
+		"data_viagem": "2022-05-27"
+	},
+	{
+		"codigo_passagem": 9967,
+		"nro_cartao": "6458226865365256",
+		"codigo_seguranca_cartao": 199,
+		"valor_passagem": "R$14,06",
+		"data_viagem": "2022-03-19"
+	},
+	{
+		"codigo_passagem": 1424,
+		"nro_cartao": "375346622912183",
+		"codigo_seguranca_cartao": 933,
+		"valor_passagem": "R$48,90",
+		"data_viagem": "2023-02-08"
+	},
+	{
+		"codigo_passagem": 6556,
+		"nro_cartao": "564182 8254221368",
+		"codigo_seguranca_cartao": 212,
+		"valor_passagem": "R$11,11",
+		"data_viagem": "2021-07-13"
+	},
+	{
+		"codigo_passagem": 8117,
+		"nro_cartao": "3017 468553 29659",
+		"codigo_seguranca_cartao": 697,
+		"valor_passagem": "R$48,79",
+		"data_viagem": "2022-04-10"
+	},
+	{
+		"codigo_passagem": 3536,
+		"nro_cartao": "214947686782737",
+		"codigo_seguranca_cartao": 850,
+		"valor_passagem": "R$59,46",
+		"data_viagem": "2021-08-31"
+	},
+	{
+		"codigo_passagem": 8107,
+		"nro_cartao": "304944543716588",
+		"codigo_seguranca_cartao": 476,
+		"valor_passagem": "R$83,63",
+		"data_viagem": "2022-11-02"
+	},
+	{
+		"codigo_passagem": 9722,
+		"nro_cartao": "455664 284435 6367",
+		"codigo_seguranca_cartao": 967,
+		"valor_passagem": "R$66,97",
+		"data_viagem": "2021-05-13"
+	},
+	{
+		"codigo_passagem": 3083,
+		"nro_cartao": "6333187459855790",
+		"codigo_seguranca_cartao": 857,
+		"valor_passagem": "R$20,64",
+		"data_viagem": "2022-06-13"
+	},
+	{
+		"codigo_passagem": 7115,
+		"nro_cartao": "649181 2496861638",
+		"codigo_seguranca_cartao": 357,
+		"valor_passagem": "R$41,27",
+		"data_viagem": "2023-02-11"
+	},
+	{
+		"codigo_passagem": 5034,
+		"nro_cartao": "630497 35 7361 8372 341",
+		"codigo_seguranca_cartao": 386,
+		"valor_passagem": "R$18,05",
+		"data_viagem": "2022-04-01"
+	},
+	{
+		"codigo_passagem": 4573,
+		"nro_cartao": "4844464837864147",
+		"codigo_seguranca_cartao": 380,
+		"valor_passagem": "R$17,98",
+		"data_viagem": "2022-06-28"
+	},
+	{
+		"codigo_passagem": 2131,
+		"nro_cartao": "6569 5393 2742 7373",
+		"codigo_seguranca_cartao": 696,
+		"valor_passagem": "R$16,98",
+		"data_viagem": "2022-02-07"
+	},
+	{
+		"codigo_passagem": 2460,
+		"nro_cartao": "633485 4773321341",
+		"codigo_seguranca_cartao": 287,
+		"valor_passagem": "R$97,87",
+		"data_viagem": "2021-12-28"
+	},
+	{
+		"codigo_passagem": 9733,
+		"nro_cartao": "378138446349776",
+		"codigo_seguranca_cartao": 431,
+		"valor_passagem": "R$34,69",
+		"data_viagem": "2022-05-16"
+	},
+	{
+		"codigo_passagem": 9500,
+		"nro_cartao": "676718 222722 2337",
+		"codigo_seguranca_cartao": 771,
+		"valor_passagem": "R$81,30",
+		"data_viagem": "2022-12-26"
+	},
+	{
+		"codigo_passagem": 6224,
+		"nro_cartao": "6767249352425941127",
+		"codigo_seguranca_cartao": 548,
+		"valor_passagem": "R$33,81",
+		"data_viagem": "2022-11-01"
+	},
+	{
+		"codigo_passagem": 6073,
+		"nro_cartao": "6011726147273640",
+		"codigo_seguranca_cartao": 173,
+		"valor_passagem": "R$49,00",
+		"data_viagem": "2022-09-03"
+	},
+	{
+		"codigo_passagem": 6829,
+		"nro_cartao": "2014 495413 33835",
+		"codigo_seguranca_cartao": 627,
+		"valor_passagem": "R$4,73",
+		"data_viagem": "2022-01-06"
+	},
+	{
+		"codigo_passagem": 5664,
+		"nro_cartao": "366944934773789",
+		"codigo_seguranca_cartao": 462,
+		"valor_passagem": "R$73,09",
+		"data_viagem": "2021-11-26"
+	},
+	{
+		"codigo_passagem": 6331,
+		"nro_cartao": "2014 244328 72746",
+		"codigo_seguranca_cartao": 701,
+		"valor_passagem": "R$53,70",
+		"data_viagem": "2022-08-21"
+	},
+	{
+		"codigo_passagem": 7091,
+		"nro_cartao": "5565 4726 2562 7771",
+		"codigo_seguranca_cartao": 386,
+		"valor_passagem": "R$71,98",
+		"data_viagem": "2022-05-27"
+	},
+	{
+		"codigo_passagem": 4856,
+		"nro_cartao": "3729 685673 74229",
+		"codigo_seguranca_cartao": 346,
+		"valor_passagem": "R$27,91",
+		"data_viagem": "2021-07-13"
+	},
+	{
+		"codigo_passagem": 7897,
+		"nro_cartao": "6442464345913416",
+		"codigo_seguranca_cartao": 563,
+		"valor_passagem": "R$42,45",
+		"data_viagem": "2021-09-15"
+	},
+	{
+		"codigo_passagem": 1410,
+		"nro_cartao": "3446 296155 12146",
+		"codigo_seguranca_cartao": 673,
+		"valor_passagem": "R$22,33",
+		"data_viagem": "2022-02-19"
+	},
+	{
+		"codigo_passagem": 1730,
+		"nro_cartao": "670986 31 8477 8923 924",
+		"codigo_seguranca_cartao": 178,
+		"valor_passagem": "R$8,51",
+		"data_viagem": "2021-04-27"
+	},
+	{
+		"codigo_passagem": 1542,
+		"nro_cartao": "676783 5624758753",
+		"codigo_seguranca_cartao": 635,
+		"valor_passagem": "R$94,64",
+		"data_viagem": "2022-12-22"
+	},
+	{
+		"codigo_passagem": 9408,
+		"nro_cartao": "417 50033 52623 899",
+		"codigo_seguranca_cartao": 130,
+		"valor_passagem": "R$7,51",
+		"data_viagem": "2022-06-30"
+	},
+	{
+		"codigo_passagem": 6715,
+		"nro_cartao": "491685 578258 1425",
+		"codigo_seguranca_cartao": 750,
+		"valor_passagem": "R$43,82",
+		"data_viagem": "2021-03-20"
+	},
+	{
+		"codigo_passagem": 2166,
+		"nro_cartao": "67628946683886",
+		"codigo_seguranca_cartao": 992,
+		"valor_passagem": "R$24,09",
+		"data_viagem": "2022-10-18"
+	},
+	{
+		"codigo_passagem": 1518,
+		"nro_cartao": "676116 6768359679",
+		"codigo_seguranca_cartao": 715,
+		"valor_passagem": "R$24,35",
+		"data_viagem": "2023-02-08"
+	},
+	{
+		"codigo_passagem": 1907,
+		"nro_cartao": "630 49888 76456 723",
+		"codigo_seguranca_cartao": 523,
+		"valor_passagem": "R$46,11",
+		"data_viagem": "2022-02-07"
+	},
+	{
+		"codigo_passagem": 4652,
+		"nro_cartao": "501865 75 5652 2781 870",
+		"codigo_seguranca_cartao": 811,
+		"valor_passagem": "R$70,72",
+		"data_viagem": "2021-09-12"
+	},
+	{
+		"codigo_passagem": 5241,
+		"nro_cartao": "653256 8645778658",
+		"codigo_seguranca_cartao": 303,
+		"valor_passagem": "R$52,30",
+		"data_viagem": "2021-09-20"
+	},
+	{
+		"codigo_passagem": 6516,
+		"nro_cartao": "300821428229537",
+		"codigo_seguranca_cartao": 769,
+		"valor_passagem": "R$10,98",
+		"data_viagem": "2021-09-30"
+	},
+	{
+		"codigo_passagem": 2650,
+		"nro_cartao": "491353 217759 9493",
+		"codigo_seguranca_cartao": 270,
+		"valor_passagem": "R$30,51",
+		"data_viagem": "2021-08-11"
+	},
+	{
+		"codigo_passagem": 7090,
+		"nro_cartao": "67631655178529445",
+		"codigo_seguranca_cartao": 532,
+		"valor_passagem": "R$83,77",
+		"data_viagem": "2022-04-30"
+	},
+	{
+		"codigo_passagem": 7772,
+		"nro_cartao": "3027 256363 96343",
+		"codigo_seguranca_cartao": 861,
+		"valor_passagem": "R$21,27",
+		"data_viagem": "2021-10-03"
+	},
+	{
+		"codigo_passagem": 1452,
+		"nro_cartao": "543956 3837564747",
+		"codigo_seguranca_cartao": 754,
+		"valor_passagem": "R$91,49",
+		"data_viagem": "2022-02-21"
+	},
+	{
+		"codigo_passagem": 8522,
+		"nro_cartao": "3048 785652 26433",
+		"codigo_seguranca_cartao": 638,
+		"valor_passagem": "R$68,97",
+		"data_viagem": "2022-10-18"
+	},
+	{
+		"codigo_passagem": 8542,
+		"nro_cartao": "645335 5484382775",
+		"codigo_seguranca_cartao": 845,
+		"valor_passagem": "R$34,36",
+		"data_viagem": "2021-10-28"
+	},
+	{
+		"codigo_passagem": 7316,
+		"nro_cartao": "630464 7215669798",
+		"codigo_seguranca_cartao": 300,
+		"valor_passagem": "R$64,90",
+		"data_viagem": "2022-11-26"
+	},
+	{
+		"codigo_passagem": 2353,
+		"nro_cartao": "644 36536 28487 879",
+		"codigo_seguranca_cartao": 803,
+		"valor_passagem": "R$63,93",
+		"data_viagem": "2021-07-17"
+	},
+	{
+		"codigo_passagem": 1563,
+		"nro_cartao": "3014 858477 29854",
+		"codigo_seguranca_cartao": 727,
+		"valor_passagem": "R$78,77",
+		"data_viagem": "2022-04-15"
+	},
+	{
+		"codigo_passagem": 7394,
+		"nro_cartao": "4911734924918887722",
+		"codigo_seguranca_cartao": 608,
+		"valor_passagem": "R$57,19",
+		"data_viagem": "2023-01-12"
+	},
+	{
+		"codigo_passagem": 9999,
+		"nro_cartao": "4916 658 27 2841",
+		"codigo_seguranca_cartao": 950,
+		"valor_passagem": "R$60,48",
+		"data_viagem": "2021-08-15"
+	},
+	{
+		"codigo_passagem": 3470,
+		"nro_cartao": "214936138446595",
+		"codigo_seguranca_cartao": 546,
+		"valor_passagem": "R$1,06",
+		"data_viagem": "2021-03-30"
+	},
+	{
+		"codigo_passagem": 9210,
+		"nro_cartao": "5175728448859236",
+		"codigo_seguranca_cartao": 939,
+		"valor_passagem": "R$69,24",
+		"data_viagem": "2022-08-24"
+	},
+	{
+		"codigo_passagem": 8387,
+		"nro_cartao": "4917 2438 2562 2689",
+		"codigo_seguranca_cartao": 975,
+		"valor_passagem": "R$10,15",
+		"data_viagem": "2022-11-22"
+	},
+	{
+		"codigo_passagem": 5941,
+		"nro_cartao": "3017 188231 66216",
+		"codigo_seguranca_cartao": 530,
+		"valor_passagem": "R$1,35",
+		"data_viagem": "2022-10-12"
+	},
+	{
+		"codigo_passagem": 4739,
+		"nro_cartao": "553 51462 26687 551",
+		"codigo_seguranca_cartao": 689,
+		"valor_passagem": "R$21,90",
+		"data_viagem": "2022-09-01"
+	},
+	{
+		"codigo_passagem": 5040,
+		"nro_cartao": "4024 007 12 8697",
+		"codigo_seguranca_cartao": 170,
+		"valor_passagem": "R$96,65",
+		"data_viagem": "2023-01-13"
+	},
+	{
+		"codigo_passagem": 9456,
+		"nro_cartao": "490 36855 63478 847",
+		"codigo_seguranca_cartao": 174,
+		"valor_passagem": "R$17,75",
+		"data_viagem": "2023-02-02"
+	},
+	{
+		"codigo_passagem": 3378,
+		"nro_cartao": "3499 396228 69792",
+		"codigo_seguranca_cartao": 442,
+		"valor_passagem": "R$22,19",
+		"data_viagem": "2022-05-01"
+	},
+	{
+		"codigo_passagem": 4946,
+		"nro_cartao": "647223 4634338986",
+		"codigo_seguranca_cartao": 803,
+		"valor_passagem": "R$55,74",
+		"data_viagem": "2022-09-09"
+	},
+	{
+		"codigo_passagem": 3294,
+		"nro_cartao": "5685 787194 78244",
+		"codigo_seguranca_cartao": 283,
+		"valor_passagem": "R$29,37",
+		"data_viagem": "2021-04-24"
+	},
+	{
+		"codigo_passagem": 1659,
+		"nro_cartao": "633 11032 96343 132",
+		"codigo_seguranca_cartao": 572,
+		"valor_passagem": "R$44,91",
+		"data_viagem": "2022-04-20"
+	},
+	{
+		"codigo_passagem": 6036,
+		"nro_cartao": "2014 695234 73458",
+		"codigo_seguranca_cartao": 526,
+		"valor_passagem": "R$36,91",
+		"data_viagem": "2022-02-20"
+	},
+	{
+		"codigo_passagem": 6909,
+		"nro_cartao": "368229437938578",
+		"codigo_seguranca_cartao": 374,
+		"valor_passagem": "R$37,37",
+		"data_viagem": "2022-02-19"
+	},
+	{
+		"codigo_passagem": 9746,
+		"nro_cartao": "545662 8657345739",
+		"codigo_seguranca_cartao": 501,
+		"valor_passagem": "R$70,52",
+		"data_viagem": "2023-03-01"
+	},
+	{
+		"codigo_passagem": 1792,
+		"nro_cartao": "5725882574144494",
+		"codigo_seguranca_cartao": 773,
+		"valor_passagem": "R$64,32",
+		"data_viagem": "2022-05-13"
+	},
+	{
+		"codigo_passagem": 7421,
+		"nro_cartao": "676 74186 11231 884",
+		"codigo_seguranca_cartao": 280,
+		"valor_passagem": "R$1,41",
+		"data_viagem": "2021-08-20"
+	},
+	{
+		"codigo_passagem": 8063,
+		"nro_cartao": "676711824875333257",
+		"codigo_seguranca_cartao": 586,
+		"valor_passagem": "R$64,81",
+		"data_viagem": "2022-02-15"
+	},
+	{
+		"codigo_passagem": 9146,
+		"nro_cartao": "670647 4393158856",
+		"codigo_seguranca_cartao": 902,
+		"valor_passagem": "R$48,04",
+		"data_viagem": "2021-05-08"
+	},
+	{
+		"codigo_passagem": 4241,
+		"nro_cartao": "601119 996218 8253",
+		"codigo_seguranca_cartao": 355,
+		"valor_passagem": "R$48,48",
+		"data_viagem": "2021-05-09"
+	},
+	{
+		"codigo_passagem": 8982,
+		"nro_cartao": "6763477418786282724",
+		"codigo_seguranca_cartao": 319,
+		"valor_passagem": "R$9,53",
+		"data_viagem": "2021-10-05"
+	},
+	{
+		"codigo_passagem": 6464,
+		"nro_cartao": "4929 6746 7534 3362",
+		"codigo_seguranca_cartao": 234,
+		"valor_passagem": "R$90,88",
+		"data_viagem": "2022-09-21"
+	},
+	{
+		"codigo_passagem": 6793,
+		"nro_cartao": "2149 325274 69611",
+		"codigo_seguranca_cartao": 925,
+		"valor_passagem": "R$9,97",
+		"data_viagem": "2022-05-18"
+	},
+	{
+		"codigo_passagem": 5360,
+		"nro_cartao": "4539 7572 6142 9620",
+		"codigo_seguranca_cartao": 504,
+		"valor_passagem": "R$90,47",
+		"data_viagem": "2022-10-30"
+	},
+	{
+		"codigo_passagem": 3121,
+		"nro_cartao": "484437 2883856281",
+		"codigo_seguranca_cartao": 548,
+		"valor_passagem": "R$34,11",
+		"data_viagem": "2021-07-24"
+	},
+	{
+		"codigo_passagem": 2112,
+		"nro_cartao": "3642 979848 73526",
+		"codigo_seguranca_cartao": 141,
+		"valor_passagem": "R$45,51",
+		"data_viagem": "2022-02-24"
+	},
+	{
+		"codigo_passagem": 2605,
+		"nro_cartao": "50387887534368843",
+		"codigo_seguranca_cartao": 883,
+		"valor_passagem": "R$47,18",
+		"data_viagem": "2022-05-05"
+	}
+]
