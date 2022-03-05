@@ -5,10 +5,13 @@ import br.com.llduran.tratajson.model.CompraChave;
 import br.com.llduran.tratajson.model.CompraFinalizada;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.JavaType;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 
+import java.lang.reflect.Field;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class ObjectManipulation
@@ -52,5 +55,15 @@ public class ObjectManipulation
 			break;
 		}
 		return lista;
+	}
+
+	public static List<?> consomeArrayGenerics(String json, Class classe)
+			throws JsonProcessingException, ClassNotFoundException
+	{
+		ObjectMapper mapper = new ObjectMapper().registerModule(new JavaTimeModule());
+		JavaType type = mapper.getTypeFactory().constructCollectionType(List.class, classe);
+		List<?> list = mapper.readValue(json, type);
+
+		return list;
 	}
 }

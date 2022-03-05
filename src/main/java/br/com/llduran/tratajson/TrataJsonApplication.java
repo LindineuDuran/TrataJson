@@ -29,29 +29,41 @@ public class TrataJsonApplication implements CommandLineRunner
 		System.out.println("=========================================================================================================================================================");
 
 		// Monta objeto CompraFinalizada
+		System.out.println("Monta objeto CompraFinalizada");
 		CompraFinalizada  compraFinalizada = montaObjetoCompra();
 		System.out.println(compraFinalizada);
 		System.out.println("=========================================================================================================================================================");
 
 		// Serializa Objeto
+		System.out.println("Serializa Objeto");
 		String jsonFinalizado = ObjectManipulation.serializa(compraFinalizada);
 		System.out.println(jsonFinalizado);
 		System.out.println("=========================================================================================================================================================");
 
-		// Desserializa Json em Objeto
-		CompraFinalizada  compraFinalizadaNova = ObjectManipulation.desserializa(jsonFinalizado);
-		System.out.println(compraFinalizadaNova);
+		// Desserializa JSON em Objeto
+		System.out.println("Desserializa JSON em Objeto");
+		CompraFinalizada  compraFinalizadaDesserializada = ObjectManipulation.desserializa(jsonFinalizado);
+		System.out.println(compraFinalizadaDesserializada);
 		System.out.println("=========================================================================================================================================================");
 
 		// Consome arquivos JSON
+		System.out.println("Consome arquivos JSON");
 		List<CompraFinalizada> compraFinalizadaList = consomeJson();
 
 		// Serializa lista
+		System.out.println("Serializa lista");
 		jsonFinalizado = ObjectManipulation.serializa(compraFinalizadaList);
 
-		// Salva Json
+		// Salva JSON
+		System.out.println("Salva JSON");
 		FileHandler.writeStream("D:\\GitHub\\TrataJson\\CompraFinalizadaFinal.json", jsonFinalizado);
-		String teste = "";
+		System.out.println("=========================================================================================================================================================");
+
+		// Desserializa Array JSON em uma Lista Genérica
+		System.out.println("Desserializa Array JSON em uma Lista Genérica");
+		List<CompraFinalizada> compraFinalizadas = (List<CompraFinalizada>)ObjectManipulation.consomeArrayGenerics(jsonFinalizado, CompraFinalizada.class);
+		System.out.println(compraFinalizadas);
+		System.out.println("=========================================================================================================================================================");
 	}
 
 	private CompraFinalizada montaObjetoCompra()
@@ -86,21 +98,29 @@ public class TrataJsonApplication implements CommandLineRunner
 
 		try
 		{
+			// Lê arquivo de Array JSON de Compras e Desserializa em uma Lista de Compras
+			System.out.println("Lê arquivo de Array JSON de Compras e Desserializa em uma Lista de Compras");
 			fileContent = FileHandler.readFile("D:\\GitHub\\TrataJson\\Compra.json");
 			List<Compra> compraList = (List<Compra>) ObjectManipulation.consomeArray(fileContent, "Compra");
 			System.out.println(compraList);
 			System.out.println("=========================================================================================================================================================");
 
+			// Lê arquivo de Array JSON de Chaves de Compras e Desserializa em uma Lista de Chaves de Compras
+			System.out.println("Lê arquivo de Array JSON de Chaves de Compras e Desserializa em uma Lista de Chaves de Compras");
 			fileContent = FileHandler.readFile("D:\\GitHub\\TrataJson\\CompraChave.json");
 			List<CompraChave> compraChaveList = (List<CompraChave>) ObjectManipulation.consomeArray(fileContent, "CompraChave");
 			System.out.println(compraChaveList);
 			System.out.println("=========================================================================================================================================================");
 
+			// Lê arquivo de Array JSON de Compras Finalizadas e Desserializa em uma Lista de Compras Finalizadas
+			System.out.println("Lê arquivo de Array JSON de Compras Finalizadas e Desserializa em uma Lista de Compras Finalizadas");
 			fileContent = FileHandler.readFile("D:\\GitHub\\TrataJson\\CompraFinalizada.json");
 			List<CompraFinalizada> compraFinalizadaList = (List<CompraFinalizada>) ObjectManipulation.consomeArray(fileContent, "CompraFinalizada");
 			System.out.println(compraFinalizadaList);
 			System.out.println("=========================================================================================================================================================");
 
+			// Monta Lista de Compras Finalizadas utilizando dados das 3 listas de objeto
+			System.out.println("Monta Lista de Compras Finalizadas utilizando dados das 3 listas de objeto");
 			compraFinalizadaList = ListManager.combinaListas(compraList, compraChaveList, compraFinalizadaList);
 			System.out.println(compraFinalizadaList);
 			System.out.println("=========================================================================================================================================================");
