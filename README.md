@@ -6,3 +6,4 @@
 - Montar lista de objetos à partir de outras 3 listas;
 - Serializar lista de objetos java em JSON;
 - Salvar JSON gerado;
+- Implementada a Desserialização de um Array JSON em uma Lista Genérica;
