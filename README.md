@@ -10,8 +10,8 @@
 <ul>
 	<li>Jackson and generic type reference - https://stackoverflow.com/questions/6846244/jackson-and-generic-type-reference</li>
 	<ul>
-		<li>Tester method needs to have access to Class, and you can construct: "JavaType type = mapper.getTypeFactory().constructCollectionType(List.class, Foo.class);"</li>
-		<li>and then: "List<Foo> list = mapper.readValue(new File("input.json"), type);"</li>
+		<li>Tester method needs to have access to Class, and you can construct:<b><i> "JavaType type = mapper.getTypeFactory().constructCollectionType(List.class, Foo.class);"</i></b></li>
+		<li>and then:<b><i> "List<Foo> list = mapper.readValue(new File("input.json"), type);"</i></b></li>
 	</ul>
 </li>
 </ul>
