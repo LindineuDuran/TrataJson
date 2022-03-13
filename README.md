@@ -7,6 +7,7 @@
 - Serializar lista de objetos java em JSON;
 - Salvar JSON gerado;
 - Implementada a Desserialização de um Array JSON em uma Lista Genérica;
+- [Convert string to OffsetDateTime in Java](https://stackoverflow.com/questions/44297939/convert-string-to-offsetdatetime-in-java)
 <ul>
 	<li>Jackson and generic type reference - https://stackoverflow.com/questions/6846244/jackson-and-generic-type-reference</li>
 	<ul>
