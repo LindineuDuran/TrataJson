@@ -9,7 +9,7 @@
 - Implementada a Desserialização de um Array JSON em uma Lista Genérica;
 - [Convert string to OffsetDateTime in Java](https://stackoverflow.com/questions/44297939/convert-string-to-offsetdatetime-in-java)
 <ul>
-	<li>Jackson and generic type reference - https://stackoverflow.com/questions/6846244/jackson-and-generic-type-reference</li>
+	<li>[Jackson and generic type reference[(https://stackoverflow.com/questions/6846244/jackson-and-generic-type-reference)</li>
 	<ul>
 		<li>Tester method needs to have access to Class, and you can construct:<b><i> "JavaType type = mapper.getTypeFactory().constructCollectionType(List.class, Foo.class);"</i></b></li>
 		<li>and then:<b><i> "List<Foo> list = mapper.readValue(new File("input.json"), type);"</i></b></li>
